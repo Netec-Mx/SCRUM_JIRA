@@ -10,6 +10,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Objetivo Visual 
 
+<img width="620" height="909" alt="image" src="https://github.com/user-attachments/assets/99de4142-3b16-4fee-afe6-d9ec3267d27e" />
 
 ## Duración aproximada:
 - 70 minutos.
