@@ -1,4 +1,14 @@
+# Visión del proyecto
 
+## Objetivo de la práctica:
+Al finalizar la práctica, serás capaz de:
+- Desarrollar la declaración de Visión del proyecto
+- Identificar puntos que mejoran una declaración
+
+## Duración aproximada:
+- 10 minutos.
+
+## Instrucciones
 ### Tarea 1. Desarrollar la Visión del proyecto.
 Paso 1. Identificar de la mano del instructor las principales características y objetivos que se buscan desarrollar a lo largo de la reunión.
 
@@ -24,3 +34,7 @@ Paso 1. Comparar la visión que se ha creado de base con la desarrollada en la t
 Paso 2. Identificar las diferencias de las visiones tomando en cuenta las problemáticas y soluciones.<!-- Añadir instrucción -->
 
 Paso 3. Debatir con el grupo lo que debe considerarse esencial en una visión de proyecto.<!-- Añadir instrucción -->
+
+### Resultado esperado
+
+<img width="708" height="202" alt="image" src="https://github.com/user-attachments/assets/5057eeb0-f9de-4718-8146-fc90cb1d26dd" />
