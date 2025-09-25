@@ -21,24 +21,26 @@ Paso 1. Comenzar la reunión de Visión del Proyecto
 Paso 2. Desarrollar los diferentes eventos antes de comenzar con las actividades
 
 Paso 3. Tomar de referencia las siguientes instrucciones:
-    A. Preparación
-    Define el Objetivo de la Reunión: Tu meta es salir con una alineación clara y un borrador 
-    de la visión, los objetivos y el alcance de alto nivel. 
+   A. Preparación
+   Define el Objetivo de la Reunión: Tu meta es salir con una alineación clara y un borrador       de la visión, los objetivos y el alcance de alto nivel. 
     
-    Audiencia:
-    Invita a las Personas Estratégicas: Esta no es solo para el Scrum Team. Debes incluir a:
-    Patrocinadores del Proyecto (Sponsors): Quienes tienen el presupuesto y la autoridad final.
-    Líderes de Departamentos Clave: Jefes de Marketing, Ventas, Operaciones, Soporte.
-    Expertos en la Materia: Personas con profundo conocimiento del producto, mercado o cliente.
-    Líderes Técnicos Clave: Arquitecto de Software, Tech Lead.
-    Product Owner y Scrum Master.
+   Audiencia:
+   Invita a las Personas Estratégicas: Esta no es solo para el Scrum Team. Debes incluir a:
+   Patrocinadores del Proyecto (Sponsors): Quienes tienen el presupuesto y la autoridad final.
+   Líderes de Departamentos Clave: Jefes de Marketing, Ventas, Operaciones, Soporte.
+   Expertos en la Materia: Personas con profundo conocimiento del producto, mercado o cliente.
+   Líderes Técnicos Clave: Arquitecto de Software, Tech Lead.
+   Product Owner y Scrum Master.
 
-Prepara Datos, no solo Opiniones: El Product Owner debe preparar una breve presentación con investigación de mercado, análisis de la competencia, datos sobre el problema actual (ej. quejas de clientes, ventas perdidas) y una propuesta inicial de la visión.
-Logística: Reserva un espacio de tiempo considerable (al menos 3-4 horas). Asegúrate de tener una pizarra grande (física o virtual), muchos post-its y marcadores.
-B. Ejecución (Durante la Reunión)
-Paso 1: Bienvenida y Establecimiento del Contexto (15 min)
-Inicia la reunión agradeciendo a todos por su tiempo.
-Presenta el objetivo claro de la sesión: "Hoy estamos aquí para definir el 'porqué' y el 'qué' de este proyecto. Al final de esta reunión, debemos tener una visión compartida que nos guiará durante los próximos meses o años."
+   Prepara Datos, no solo Opiniones: 
+   El Product Owner debe preparar una breve presentación con investigación de mercado, análisis    de la competencia, datos sobre el problema actual (ej. quejas de clientes, ventas perdidas)     y una propuesta inicial de la visión.
+
+   B. Ejecución
+   Bienvenida y Establecimiento del Cotexto.
+
+   Inicia la reunión agradeciendo a todos por su tiempo.
+   Presenta el objetivo claro de la sesión: "Hoy estamos aquí para definir el 'porqué' y el        'qué' de este proyecto. Al final de esta reunión, debemos tener una visión compartida que       nos guiará durante los próximos meses o años."
+
 Pide al PO o al patrocinador que presente el problema de negocio y la oportunidad de mercado. ¿Por qué estamos invirtiendo tiempo y dinero en esto?
 Paso 2: Taller de Visión (45 min)
 Facilita un ejercicio colaborativo para definir la visión. Puedes usar la "Plantilla de la Visión del Producto" de Geoffrey Moore:
