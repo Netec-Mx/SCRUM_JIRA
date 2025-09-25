@@ -44,14 +44,13 @@ Pedir al PO o al patrocinador que presente el problema de negocio y la oportunid
 
 ### Taller de Visión:
 
-Utilizar las instrucciones de la tarea 2 para realizar esto mismo.
+Utilizar las instrucciones del lab4_2 para realizar esta práctica.
 Dividir a los asistentes en grupos pequeños para que elaboren sus propias versiones y luego pónganlas en común para crear una declaración unificada.
 
 ### Definir roles:
 
 Describir las características y responsabilidades de cada uno de los roles.
 Asignar a cada uno de los participantes un rol inicial tomando de base el punto anterior.
-Terminar con la tarea 4 para reforzar el tema.
 
 ### Definir el Éxito:
 
@@ -62,7 +61,7 @@ Facilitar un brainstorming para definir los objetivos de negocio y las métricas
 
 Este paso es crucial para gestionar las expectativas. Identificar los siguientes dos grupos sobre características del proyecto: "EN ALCANCE" y "FUERA DE ALCANCE".
 Pedir al grupo que, basándose en la visión, listen las funcionalidades o características de alto nivel (épicas) que son absolutamente esenciales para la primera gran versión.
-Para este punto incluye las instrucciones de la tarea 5.
+Para este punto incluir las instrucciones del lab4_3.
 
 ### Identificar Riesgos y Suposiciones
 
