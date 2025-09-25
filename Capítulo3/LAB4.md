@@ -92,4 +92,7 @@ Paso 2. Identificar las diferencias de las visiones tomando en cuenta las proble
 Paso 3. Debatir con el grupo lo que debe considerarse esencial en una visión de proyecto.<!-- Añadir instrucción -->
 
 ### Tarea 4. Características de roles.
+Paso 1. Considerar la sección dentro de Notion de la Página "Visión del Proyecto" que se encuentra hasta abajo o interna con el nombre de "Visión Actividad".
+
+Paso 2. Seleccionar el 
 
