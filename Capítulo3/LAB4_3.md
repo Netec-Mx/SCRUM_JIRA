@@ -73,16 +73,16 @@ Para la Épica que acabas de detallar en Jira, discutir y redactar un checklist 
 Paso 3. Añadir la DoD a Jira.
 Copiar y pegar tu checklist de DoD en el campo **Descripción** de la Épica en Jira, debajo de la descripción general que ya escribiste.
 
----
-#### **Plantilla de Definition of Done para una Épica**
 
-`## Definition of Done (DoD)`
-`- [ ] Todas las Historias de Usuario y tareas asociadas a esta Épica han sido completadas y cumplen su propia DoD.`
-`- [ ] La funcionalidad ha pasado todas las pruebas de regresión y aceptación del usuario (UAT).`
-`- [ ] Se han cumplido los objetivos de negocio o las métricas de éxito asociadas a la Épica (Ej: "La tasa de registro de nuevos usuarios ha aumentado un 10%").`
-`- [ ] La documentación para el usuario final y/o la documentación técnica ha sido creada o actualizada.`
-`- [ ] El Product Owner y los stakeholders clave han revisado y aceptado formalmente la funcionalidad entregada.`
----
+### **Plantilla de Definition of Done para una Épica**
+
+## Definition of Done (DoD)
+- [ ] Todas las Historias de Usuario y tareas asociadas a esta Épica han sido completadas y cumplen su propia DoD.
+- [ ] La funcionalidad ha pasado todas las pruebas de regresión y aceptación del usuario (UAT).
+- [ ] Se han cumplido los objetivos de negocio o las métricas de éxito asociadas a la Épica (Ej: "La tasa de registro de nuevos usuarios ha aumentado un 10%").
+- [ ] La documentación para el usuario final y/o la documentación técnica ha sido creada o actualizada.
+- [ ] El Product Owner y los stakeholders clave han revisado y aceptado formalmente la funcionalidad entregada.
+
 
 ### Resultado esperado
 
