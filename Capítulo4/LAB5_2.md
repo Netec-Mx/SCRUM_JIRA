@@ -1,4 +1,4 @@
-# Práctica 6.1: Desarrollo de Historias de Usuario
+# Desarrollo de Historias de Usuario
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
