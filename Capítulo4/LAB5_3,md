@@ -1,0 +1,48 @@
+# Práctica 6.2: Estimación con Puntos de Historia (Planning Poker)
+
+## Objetivo de la práctica:
+Al finalizar la práctica, serás capaz de:
+-   Estimar el esfuerzo relativo de Historias de Usuario utilizando la técnica de Planning Poker.
+-   Aplicar el concepto de tamaño relativo (complejidad, incertidumbre, esfuerzo) en lugar de tiempo.
+-   Colaborar con un equipo para alcanzar un consenso en las estimaciones.
+
+## Duración aproximada:
+-   30 minutos.
+
+## Instrucciones
+
+El objetivo de esta práctica es estimar de forma colaborativa el "tamaño" de las Historias de Usuario que crearon en la práctica anterior. No estimaremos en horas o días, sino en **Puntos de Historia**, que representan una medida relativa del esfuerzo total.
+
+### Procedimiento a Seguir
+
+**Paso 1. Entender el Concepto de Puntos de Historia.**
+-   Recordar que los Puntos de Historia no son unidades de tiempo. Representan una combinación de:
+    -   Complejidad: ¿Qué tan difícil es de entender y resolver?
+    -   Incertidumbre: ¿Qué tanto desconocemos sobre lo que hay que hacer?
+    -   Esfuerzo: ¿Cuánto trabajo implica (diseñar, codificar, probar)?
+-   Utilizar la secuencia de Fibonacci modificada (0, 1, 2, 3, 5, 8, 13, 20...) para las estimaciones. Los saltos grandes nos obligan a agrupar las tareas por tamaño relativo en lugar de ser demasiado precisos.
+
+Paso 2. Establecer una Línea Base.**
+-   Seleccionar una de las Historias de Usuario más pequeñas y sencillas del backlog.
+-   Acordar como equipo asignarle un valor de referencia bajo, por ejemplo, **2 puntos**. A partir de ahora, todas las demás historias se estimarán en comparación con esta: "¿Es esta nueva historia más grande, más pequeña o del mismo tamaño que nuestra historia de 2 puntos?".
+
+Paso 3. Ejecutar el Ciclo de Estimación (Planning Poker).
+-   Presentar la primera Historia de Usuario a estimar. El Product Owner o el instructor la explicará y leerá sus Criterios de Aceptación.
+-   Discutir y aclarar dudas. El equipo debe hacer preguntas para asegurarse de que todos entienden el alcance de la historia.
+-   Votar en silencio y de forma individual, utilizando la herramienta de estimación. Cada miembro selecciona el número que cree que representa el tamaño de la historia en comparación con la línea base.
+-   Revelar los votos al mismo tiempo.
+-   Alcanza el consenso.
+    -   Si todos votaron lo mismo, ¡excelente! Ese es el valor de la historia. Pasen a la siguiente.
+    -   Si hay diferencias, las personas que votaron el número más alto y el más bajo deben **explicar su razonamiento**. Esta discusión es la parte más valiosa del proceso, ya que saca a la luz suposiciones y riesgos ocultos.
+    -   Repetir la votación hasta que el equipo alcance un consenso o una estimación muy cercana.
+
+Paso 4. Repetir el Proceso.
+-   Continuar con el ciclo de "Presentar -> Discutir -> Votar -> Consensuar" para el resto de las Historias de Usuario.
+
+### Resultado Esperado
+Al finalizar, el equipo tendrá un conjunto de Historias de Usuario del backlog con una estimación de esfuerzo en puntos acordada por consenso. Más importante aún, el equipo tendrá una **comprensión compartida y profunda** del trabajo que implica cada historia, gracias a las discusiones durante el proceso de estimación.
+
+**Ejemplo del producto final en Jira (o cualquier otra herramienta):**
+-   HU 1.1: Crear cuenta con email/redes sociales - **8 puntos**
+-   HU 1.2: Recuperar contraseña - **5 puntos**
+-   HU 3.2: Mostrar tiempo estimado de entrega - **8 puntos**
