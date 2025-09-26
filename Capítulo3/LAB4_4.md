@@ -1,4 +1,4 @@
-# Práctica 5: Planificación de Lanzamiento (Release Planning)
+# Planificación de Lanzamiento (Release Planning)
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
