@@ -38,7 +38,7 @@ Paso 4. Planificar la sesión de juego.
 
 <img width="869" height="555" alt="image" src="https://github.com/user-attachments/assets/6f5a5b13-78cb-4167-9ba2-b78853106ce7" />
 
-Paso 5. Establecer una Línea Base.**
+Paso 5. Establecer una Línea Base.
 -   Seleccionar una de las Historias de Usuario más pequeñas y sencillas del backlog.
 -   Acordar como equipo asignarle un valor de referencia bajo, por ejemplo, **2 puntos**. A partir de ahora, todas las demás historias se estimarán en comparación con esta: "¿Es esta nueva historia más grande, más pequeña o del mismo tamaño que nuestra historia de 2 puntos?".
 
