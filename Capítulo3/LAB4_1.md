@@ -7,14 +7,16 @@ Al finalizar la práctica, serás capaz de:
 - Identificar las responsabilidades que lleva a cabo cada uno de los roles principales de la gestión Scrum
 - Generar una definición de terminado adecuada.
 
-### Tarea 1. Preparar el Terreno para la Visión
+Nota: Práctica en grupos.
 
+### Tarea 1. Preparar el Terreno para la Visión
 *Una buena reunión estratégica comienza antes de que todos entren a la sala.*
 
 Paso 1. Definir el Objetivo de la Reunión.
 - Aclarar que el objetivo de esta sesión es salir con una alineación clara y un borrador de la visión, los objetivos y el alcance de alto nivel del proyecto.
 
 Paso 2. Convocar a la Audiencia Estratégica.
+Nota: Dentro de la práctica este punto es principalmente de referencia.
 - Asegurar la participación de los roles clave, que incluyen:
     -   Patrocinadores del Proyecto (Sponsors): Quienes tienen el presupuesto y la autoridad.
     -   Líderes de Departamentos Clave: Marketing, Ventas, Operaciones, etc.
@@ -32,7 +34,6 @@ Paso 1. Establecer el Contexto.
 
 Paso 2. Facilitar el Taller de Visión.
 - Aplicar las técnicas de la práctica de "Desarrollo de Visión del Proyecto" para **redactar** de forma colaborativa la declaración de Visión del producto.
-- Dividir a los asistentes en grupos pequeños para que elaboren propuestas y luego **unificar** las ideas en una sola declaración final.
 
 Paso 3. Definir Roles y Responsabilidades.
 - Describir las características y responsabilidades principales del Product Owner, el Equipo de Desarrollo y el Scrum Master.
@@ -40,7 +41,7 @@ Paso 3. Definir Roles y Responsabilidades.
 
 Paso 4. Definir las Métricas de Éxito.
 - Una vez clara la Visión, responder a la pregunta: *"Si logramos esta visión, ¿qué habrá cambiado en 1 o 2 años?"
-- Realizar un brainstorming para definir los objetivos del proyecto.
+- Realizar una lluvida de ideas para definir los objetivos del proyecto.
 
 Paso 5. Definir el Alcance (Crear las Épicas).
 - Identificar las funcionalidades de alto nivel (Épicas) que son esenciales para cumplir la Visión.
