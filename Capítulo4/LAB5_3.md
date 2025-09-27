@@ -24,7 +24,8 @@ Paso 1. Entender el Concepto de Puntos de Historia.
     -   Complejidad: ¿Qué tan difícil es de entender y resolver?
     -   Incertidumbre: ¿Qué tanto desconocemos sobre lo que hay que hacer?
     -   Esfuerzo: ¿Cuánto trabajo implica (diseñar, codificar, probar)?
-Paso 2. Ingresar a la plataforma de:
+
+Paso 2. Ingresar a la plataforma de: https://planningpokeronline.com/.
 
 Paso 3. Seleccionar el botón de Start Game.
 
