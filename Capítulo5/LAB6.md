@@ -17,10 +17,11 @@ Al finalizar la práctica, serás capaz de:
     1.  *¿Qué hice ayer para ayudar al equipo a cumplir el Sprint Goal?*
     2.  *¿Qué haré hoy para ayudar al equipo a cumplir el Sprint Goal?*
     3.  *¿Veo algún impedimento que nos impida a mí o al equipo cumplir el Sprint Goal?*
+
 *Nota: Simulen que realmente están realizando dichas actividades con el conocimiento que tengan. El objetivo es practicar la comunicación y la sincronización.*
 
 **Paso 2. Ejecutar la Reunión.**
-- **Compartir** las respuestas con el grupo de forma concisa (menos de 1 minuto por persona) y enfocada en el Sprint Goal.
+- **Compartir** las respuestas con el grupo de forma concisa y enfocada en el Sprint Goal.
 - **Escuchar** activamente las actualizaciones de los compañeros para identificar oportunidades de colaboración o posibles bloqueos.
 
 #### Tarea 2. Gestionar el Flujo de Trabajo.
