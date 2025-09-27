@@ -29,7 +29,7 @@ Al finalizar la práctica, serás capaz de:
 - **Arrastrar y soltar** los ítems de una columna a otra para reflejar su estado actual (ej. de "Por hacer" a "En curso", o de "En curso" a "Hecho").
 
 **Paso 2. Gestionar los Impedimentos.**
-- **Documentar** cualquier impedimento identificado durante la Daily en una página de Confluence o como un comentario en la tarea correspondiente de Jira.
+- **Documentar** cualquier impedimento identificado durante la Daily en una página de Notion o como un comentario en la tarea correspondiente de Jira.
 - **Crear** nuevas tareas o subtareas si de la reunión surgen acciones concretas necesarias para resolver un bloqueo.
 
 #### Tarea 3. Visualizar el Progreso.
