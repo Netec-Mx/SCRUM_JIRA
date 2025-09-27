@@ -5,7 +5,7 @@ Al finalizar la práctica, serás capaz de:
 - **Facilitar** una reunión de Sprint Planning de principio a fin.
 - **Definir** un Sprint Goal claro y motivador.
 - **Seleccionar** y planificar el trabajo para un sprint, creando un Sprint Backlog.
-- **Implementar** el plan del sprint utilizando las herramientas Jira y Confluence.
+- **Implementar** el plan del sprint utilizando las herramientas Jira y Notion.
 
 ## Duración aproximada:
 - 60 minutos.
@@ -77,4 +77,9 @@ El objetivo de esta práctica es simular la ceremonia de Sprint Planning. Como S
 - **Presionar** el botón **Iniciar** (Start).
 
 ### Resultado Esperado
-Al finalizar, el equipo tendrá un **Sprint Goal** claro y un **Sprint Backlog** comprometido, que consiste en las Historias de Usuario seleccionadas y el plan de tareas para completarlas. El sprint estará oficialmente iniciado en Jira, y el plan documentado en Confluence, listo para que el equipo comience a ejecutar.
+Al finalizar, el equipo tendrá:
+- Las Historias de  Usuario y sus criterios de aceptación
+- Un **Sprint Goal** claro
+- Un **Sprint Backlog** comprometido (Las Historias de Usuario seleccionadas)
+- El sprint estará oficialmente iniciado en Jira
+- Las tareas identificadas para cumplir con el Sprint Backlog.
