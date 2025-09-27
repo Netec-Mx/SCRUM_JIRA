@@ -23,7 +23,7 @@ Paso 2. Convocar a la Audiencia Estratégica.
     -   El Product Owner y el Scrum Master.
 
 Paso 3. Preparar los Datos de Entrada.
-- Revisar la investigación de mercado, análisis de la competencia y datos sobre el problema actual que el Product Owner ha preparado para contextualizar la reunión.
+- Revisar la investigación de mercado, análisis de la competencia y datos sobre el problema actual que el Product Owner ha preparado para contextualizar la reunión. (Caso de Negocio en Notion).
 
 ### Tarea 2. Ejecutar la Sesión de Visión
 
