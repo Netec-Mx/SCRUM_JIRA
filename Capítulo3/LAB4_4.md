@@ -9,6 +9,7 @@ Al finalizar la práctica, serás capaz de:
 ## Duración aproximada:
 -   40 minutos.
 
+Nota: Práctica en grupos.
 ## Instrucciones
 Paso 1. Establecer el Contexto y el Objetivo.
 -   Revisar la Visión del Proyecto y los objetivos de negocio para alinear a todos en el "porqué".
@@ -34,4 +35,8 @@ Paso 5. Acordar los Pasos a Seguir.
 -   Definir las acciones inmediatas que deben ocurrir después de la reunión (ej. refinar las historias del primer sprint, contactar a un equipo externo, etc.).
 
 ### Resultado Esperado
-Al finalizar, el equipo tendrá un **Plan de Lanzamiento** documentado que incluye un objetivo claro, un alcance definido, un pronóstico de entrega y una lista de riesgos identificados con sus acciones de mitigación.
+Al finalizar, el equipo tendrá un **Plan de Lanzamiento** documentado que incluye:
+- Un objetivo claro
+- Un alcance definido
+- Un pronóstico de entrega
+- Una lista de riesgos identificados con sus acciones de mitigación.
