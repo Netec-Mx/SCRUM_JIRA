@@ -62,12 +62,10 @@ Al finalizar la práctica, serás capaz de:
 - Una vez finalizado el período de tiempo simulado, **navegar** al menú **Backlog**.
 - **Hacer** clic en el botón **Completar Sprint** para cerrar formalmente el ciclo de trabajo.
 
----
-
 ### Resultado Esperado
 Al finalizar esta práctica, el equipo tendrá:
+
 -  Un **Tablero de Jira Actualizado** que refleja visualmente el estado del trabajo discutido.
 -  Una **Página de Notion** (o comentarios en Jira) con los impedimentos documentados y las acciones a tomar.
 -  **Dos Gráficos Hechos a Mano:** un Burndown Chart y un Burnup Chart, que demuestran una comprensión profunda de cómo se mide y visualiza el progreso en un sprint.
 -  Un **Sprint Formalmente Completado** en Jira, dejando todo listo para las siguientes ceremonias (Sprint Review y Retrospectiva).
-
