@@ -1,4 +1,4 @@
-# Práctica 7: El Sprint en Acción: Daily Stand-up y Seguimiento
+# El Sprint en Acción: Daily Stand-up y Seguimiento
 
 ### Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
@@ -13,10 +13,11 @@ Al finalizar la práctica, serás capaz de:
 
 #### Tarea 1. Facilitar la Daily Stand-up.
 **Paso 1. Preparar las Respuestas.**
-- **Responder** individualmente a las tres preguntas clave de la Daily Stand-up, basándose en el trabajo del sprint actual según se hayan comprometido en el ejercicio anterior o conm actividades que realizan en su día a día en el trabajo:
+- **Responder** individualmente a las tres preguntas clave de la Daily Stand-up, basándose en el trabajo del sprint actual según se hayan comprometido en el ejercicio anterior, esta simulación ayudará a seguir con la siguiente práctica:
     1.  *¿Qué hice ayer para ayudar al equipo a cumplir el Sprint Goal?*
     2.  *¿Qué haré hoy para ayudar al equipo a cumplir el Sprint Goal?*
-    3.  *¿Veo algún impedimento que nos impida a mí o al equipo cumplir el Sprint Goal?*
+    3.  *¿Veo algún impedimento que nos impida a mí o al equipo cumplir el Sprint Goal
+Nota: Simular que realmente están realizando dichas actividades con el poco o mucho conocimiento que se tenga al respecto. 
 
 **Paso 2. Simular la Reunión.**
 - **Compartir** las respuestas con el grupo de forma concisa y enfocada en el objetivo del sprint.
