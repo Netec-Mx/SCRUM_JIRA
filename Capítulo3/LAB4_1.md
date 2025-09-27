@@ -7,70 +7,65 @@ Al finalizar la práctica, serás capaz de:
 - Identificar las responsabilidades que lleva a cabo cada uno de los roles principales de la gestión Scrum
 - Generar una definición de terminado adecuada.
 
+### Tarea 1. Preparar el Terreno para la Visión
 
-## Objetivo Visual 
+*Una buena reunión estratégica comienza antes de que todos entren a la sala.*
 
-<img width="620" height="909" alt="image" src="https://github.com/user-attachments/assets/99de4142-3b16-4fee-afe6-d9ec3267d27e" />
+Paso 1. Definir el Objetivo de la Reunión.
+- Aclarar que el objetivo de esta sesión es salir con una alineación clara y un borrador de la visión, los objetivos y el alcance de alto nivel del proyecto.
 
-## Duración aproximada:
-- 70 minutos.
+Paso 2. Convocar a la Audiencia Estratégica.
+- Asegurar la participación de los roles clave, que incluyen:
+    -   Patrocinadores del Proyecto (Sponsors): Quienes tienen el presupuesto y la autoridad.
+    -   Líderes de Departamentos Clave: Marketing, Ventas, Operaciones, etc.
+    -   Expertos en la Materia: Personas con conocimiento profundo del producto o cliente.
+    -   Líderes Técnicos Clave: Arquitectos, Tech Leads.
+    -   El Product Owner y el Scrum Master.
 
-## Instrucciones
-NOTA: Para la práctica completa se llevan a cabo ejercicios internos, toma de referencia las intrucciones a continuación para identificar el flujo que se sigue normalmente en una reunión de Visión del proyecto e identificar en que puntos se recomienda hacer los ejercicios internos que tienen sus propias intrucciones. El flujo podría variar dependiendo del contexto. 
+Paso 3. Preparar los Datos de Entrada.
+- Revisar la investigación de mercado, análisis de la competencia y datos sobre el problema actual que el Product Owner ha preparado para contextualizar la reunión.
 
-## INSTRUCCIONES DE REFERENCIA
-## A. Preparación:
+### Tarea 2. Ejecutar la Sesión de Visión
 
-Definir el Objetivo de la Reunión: Tu meta es salir con una alineación clara y un borrador de la visión, los objetivos y el alcance de alto nivel. 
-    
-### Audiencia:
+Paso 1. Establecer el Contexto.
+- Iniciar la reunión presentando el objetivo de la sesión y el problema de negocio que se busca resolver. Responder a la pregunta: *¿Por qué estamos invirtiendo tiempo y dinero en esto?*
 
-Invitar a las Personas Estratégicas: Esta no es solo para el Scrum Team. Debes incluir a:
-Patrocinadores del Proyecto (Sponsors): Quienes tienen el presupuesto y la autoridad final.
-Líderes de Departamentos Clave: Jefes de Marketing, Ventas, Operaciones, Soporte.
-Expertos en la Materia: Personas con profundo conocimiento del producto, mercado o cliente.
-Líderes Técnicos Clave: Arquitecto de Software, Tech Lead.
-Product Owner y Scrum Master.
+Paso 2. Facilitar el Taller de Visión.
+- Aplicar las técnicas de la práctica de "Desarrollo de Visión del Proyecto" para **redactar** de forma colaborativa la declaración de Visión del producto.
+- Dividir a los asistentes en grupos pequeños para que elaboren propuestas y luego **unificar** las ideas en una sola declaración final.
 
-### Preparar Datos, no solo Opiniones: 
+Paso 3. Definir Roles y Responsabilidades.
+- Describir las características y responsabilidades principales del Product Owner, el Equipo de Desarrollo y el Scrum Master.
+- Asignar un rol a cada participante para el resto de las prácticas, basándose en la descripción anterior.
 
-El Product Owner debe preparar una breve presentación con investigación de mercado, análisis de la competencia, datos sobre el problema actual (ej. quejas de    clientes, ventas perdidas) y una propuesta inicial de la visión.
+Paso 4. Definir las Métricas de Éxito.
+- Una vez clara la Visión, responder a la pregunta: *"Si logramos esta visión, ¿qué habrá cambiado en 1 o 2 años?"
+- Realizar un brainstorming para definir los objetivos del proyecto.
 
-## B. Ejecución
+Paso 5. Definir el Alcance (Crear las Épicas).
+- Identificar las funcionalidades de alto nivel (Épicas) que son esenciales para cumplir la Visión.
+- Aplicar las técnicas de la práctica de "Desarrollo de Épicas" para **listarlas** y **priorizarlas**.
+- Clasificar claramente las Épicas en dos categorías para gestionar expectativas: **"EN ALCANCE"** (para la primera gran versión) y **"FUERA DE ALCANCE"** (para futuras versiones).
 
-Bienvenida y Establecimiento del Cotexto:
-Presentar el objetivo claro de la sesión: "Hoy estamos aquí para definir el 'porqué' y el 'qué' de este proyecto. Al final de esta reunión, debemos tener una visión compartida que nos guiará durante los próximos meses o años."
-Pedir al PO o al patrocinador que presente el problema de negocio y la oportunidad de mercado. ¿Por qué estamos invirtiendo tiempo y dinero en esto?
+Paso 6. Identificar Riesgos y Suposiciones.
+- Facilitar una discusión para responder a las preguntas:
+    - *¿Qué estamos asumiendo que es verdad para que este proyecto tenga éxito?* (Suposiciones)
+    - *¿Qué podría hacer que este proyecto fracase?* (Riesgos)
+- Capturar los puntos más importantes para hacerlos visibles desde el inicio.
 
-### Taller de Visión:
+### Tarea 3. Establecer los Criterios de Calidad
 
-Utilizar las instrucciones del lab4_2 para realizar esta práctica.
-Dividir a los asistentes en grupos pequeños para que elaboren sus propias versiones y luego pónganlas en común para crear una declaración unificada.
+Paso 1. Definir la "Definition of Done" Inicial.
+- Explicar que la "Definition of Done" (DoD) es un checklist compartido que define todo el trabajo de calidad que debe cumplirse para que un incremento del producto se considere "terminado".
+- Facilitar una discusión para crear una primera versión de la DoD del equipo. Esta evolucionará, pero es crucial tener una base. Usen una plantilla como punto de partida, cubriendo áreas como código, pruebas, documentación y despliegue.
 
-### Definir roles:
+### Resultado Esperado
+Al finalizar, el equipo tendrá un artefacto visual y documentado (como una página en Notion o Confluence) que contiene:
+-   La **Declaración de Visión** final.
+-   La lista de **Roles** asignados.
+-   Los **Objetivos de Negocio**.
+-   El **Roadmap Inicial** con las Épicas priorizadas y su alcance definido.
+-   Los **Riesgos y Suposiciones** principales.
+-   La primera versión de la **Definition of Done** del equipo.
 
-Describir las características y responsabilidades de cada uno de los roles.
-Asignar a cada uno de los participantes un rol inicial tomando de base el punto anterior.
-
-### Definir el Éxito:
-
-Una vez que la visión esté clara, preguntar: "Si logramos esta visión, ¿qué habrá cambiado en 1 o 2 años?".
-Facilitar un brainstorming para definir los objetivos de negocio y las métricas clave de éxito (KPIs). Guía al grupo para que sean específicos y medibles (ej. en lugar de "mejorar ventas", usa "aumentar ventas en línea un 40%").
-
-### Definir los Límites:
-
-Este paso es crucial para gestionar las expectativas. Identificar los siguientes dos grupos sobre características del proyecto: "EN ALCANCE" y "FUERA DE ALCANCE".
-Pedir al grupo que, basándose en la visión, listen las funcionalidades o características de alto nivel (épicas) que son absolutamente esenciales para la primera gran versión.
-Para este punto incluir las instrucciones del lab4_3.
-
-### Identificar Riesgos y Suposiciones
-
-### Pregunta al grupo:
-
-- "¿Qué estamos asumiendo que es verdad para que este proyecto tenga éxito?" (Suposiciones).
-- "¿Qué podría hacer que este proyecto fracase?" (Riesgos).
-- Capturar los puntos más importantes. No se trata de resolverlos, sino de hacerlos visibles."""
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-
-### Resultado esperado
 <img width="620" height="909" alt="image" src="https://github.com/user-attachments/assets/99de4142-3b16-4fee-afe6-d9ec3267d27e" />
