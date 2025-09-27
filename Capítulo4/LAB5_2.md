@@ -30,7 +30,7 @@ El objetivo de esta práctica es tomar una iniciativa de alto nivel (una Épica)
 
 **Paso 4. Definir los Criterios de Aceptación.**
 -   Para cada Historia de Usuario redactada, **generar** una lista de Criterios de Aceptación (AC).
--   Los Criterios de Aceptación deben ser **específicos, claros y verificables (testeables)**. Definen las condiciones que la funcionalidad debe cumplir para ser considerada "hecha". Piensen en los "happy paths", los casos de error y las reglas de negocio.
+-   Los Criterios de Aceptación deben ser **específicos, claros y verificables (testeables)**. Definen las condiciones que la funcionalidad debe cumplir para ser considerada "hecha". Piensen en los ideales de la historia, los casos de error y las reglas de negocio.
 
 
 ### Resultado Esperado
