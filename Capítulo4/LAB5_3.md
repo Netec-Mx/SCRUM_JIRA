@@ -9,24 +9,39 @@ Al finalizar la práctica, serás capaz de:
 ## Duración aproximada:
 -   30 minutos.
 
+## Requerimientos
+Utilizar la herramienta de https://planningpokeronline.com.
+No se necesita cuenta.
+
 ## Instrucciones
 
 El objetivo de esta práctica es estimar de forma colaborativa el "tamaño" de las Historias de Usuario que crearon en la práctica anterior. No estimaremos en horas o días, sino en **Puntos de Historia**, que representan una medida relativa del esfuerzo total.
 
 ### Procedimiento a Seguir
 
-**Paso 1. Entender el Concepto de Puntos de Historia.**
+Paso 1. Entender el Concepto de Puntos de Historia.
 -   Recordar que los Puntos de Historia no son unidades de tiempo. Representan una combinación de:
     -   Complejidad: ¿Qué tan difícil es de entender y resolver?
     -   Incertidumbre: ¿Qué tanto desconocemos sobre lo que hay que hacer?
     -   Esfuerzo: ¿Cuánto trabajo implica (diseñar, codificar, probar)?
--   Utilizar la secuencia de Fibonacci modificada (0, 1, 2, 3, 5, 8, 13, 20...) para las estimaciones. Los saltos grandes nos obligan a agrupar las tareas por tamaño relativo en lugar de ser demasiado precisos.
+Paso 2. Ingresar a la plataforma de:
 
-Paso 2. Establecer una Línea Base.**
+Paso 3. Seleccionar el botón de Start Game.
+
+<img width="616" height="415" alt="image" src="https://github.com/user-attachments/assets/106424da-b8d4-4b45-8942-bf875645e11f" />
+
+Paso 4. Planificar la sesión de juego.
+-   Colocar un nombre para la sesión.
+-   Utilizar la secuencia de Fibonacci modificada (0, 1, 2, 3, 5, 8, 13, 20...) para las estimaciones. Los saltos grandes nos obligan a agrupar las tareas por tamaño relativo en lugar de ser demasiado precisos.
+-   Seleccionar "Create Game".
+
+<img width="869" height="555" alt="image" src="https://github.com/user-attachments/assets/6f5a5b13-78cb-4167-9ba2-b78853106ce7" />
+
+Paso 5. Establecer una Línea Base.**
 -   Seleccionar una de las Historias de Usuario más pequeñas y sencillas del backlog.
 -   Acordar como equipo asignarle un valor de referencia bajo, por ejemplo, **2 puntos**. A partir de ahora, todas las demás historias se estimarán en comparación con esta: "¿Es esta nueva historia más grande, más pequeña o del mismo tamaño que nuestra historia de 2 puntos?".
 
-Paso 3. Ejecutar el Ciclo de Estimación (Planning Poker).
+Paso 6. Ejecutar el Ciclo de Estimación (Planning Poker).
 -   Presentar la primera Historia de Usuario a estimar. El Product Owner o el instructor la explicará y leerá sus Criterios de Aceptación.
 -   Discutir y aclarar dudas. El equipo debe hacer preguntas para asegurarse de que todos entienden el alcance de la historia.
 -   Votar en silencio y de forma individual, utilizando la herramienta de estimación. Cada miembro selecciona el número que cree que representa el tamaño de la historia en comparación con la línea base.
@@ -36,7 +51,7 @@ Paso 3. Ejecutar el Ciclo de Estimación (Planning Poker).
     -   Si hay diferencias, las personas que votaron el número más alto y el más bajo deben **explicar su razonamiento**. Esta discusión es la parte más valiosa del proceso, ya que saca a la luz suposiciones y riesgos ocultos.
     -   Repetir la votación hasta que el equipo alcance un consenso o una estimación muy cercana.
 
-Paso 4. Repetir el Proceso.
+Paso 7. Repetir el Proceso.
 -   Continuar con el ciclo de "Presentar -> Discutir -> Votar -> Consensuar" para el resto de las Historias de Usuario.
 
 ### Resultado Esperado
