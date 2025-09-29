@@ -69,4 +69,10 @@ Al finalizar, el equipo tendrá un artefacto visual y documentado (como una pág
 -   Los **Riesgos y Suposiciones** principales.
 -   La primera versión de la **Definition of Done** del equipo.
 
+Notion:
+
 <img width="620" height="909" alt="image" src="https://github.com/user-attachments/assets/99de4142-3b16-4fee-afe6-d9ec3267d27e" />
+
+Jira:
+
+<img width="382" height="716" alt="image" src="https://github.com/user-attachments/assets/7258e37f-5635-4b31-b3fe-6cd321069010" />
