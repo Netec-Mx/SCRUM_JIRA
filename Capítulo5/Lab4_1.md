@@ -61,4 +61,7 @@ Al finalizar esta práctica, el equipo tendrá:
 -  Un **Tablero de Jira Actualizado** que refleja visualmente el estado del trabajo discutido.
 -  Una **Página de Notion** (o comentarios en Jira) con los impedimentos documentados y las acciones a tomar.
 -  **Dos Gráficos Hechos a Mano:** un Burndown Chart y un Burnup Chart, que demuestran una comprensión profunda de cómo se mide y visualiza el progreso en un sprint.
--  Un **Sprint Formalmente Completado** en Jira, dejando todo listo para las siguientes ceremonias (Sprint Review y Retrospectiva).
+
+<img width="498" height="455" alt="image" src="https://github.com/user-attachments/assets/ecf2f911-92bb-4881-a8a9-feb104c9dc3f" />
+
+<img width="597" height="520" alt="image" src="https://github.com/user-attachments/assets/98183b4d-dc75-4720-a82d-74f7eb589d53" />
