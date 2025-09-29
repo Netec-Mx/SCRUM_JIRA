@@ -83,3 +83,10 @@ Al finalizar, el equipo tendrá:
 - Un **Sprint Backlog** comprometido (Las Historias de Usuario seleccionadas)
 - El sprint estará oficialmente iniciado en Jira
 - Las tareas identificadas para cumplir con el Sprint Backlog.
+
+<img width="480" height="209" alt="image" src="https://github.com/user-attachments/assets/747ae49d-2257-4c62-96fb-cef5de937489" />
+
+<img width="1211" height="251" alt="image" src="https://github.com/user-attachments/assets/e143f83b-8c86-49cf-a978-e3da313766b4" />
+
+<img width="953" height="449" alt="image" src="https://github.com/user-attachments/assets/a7058c3c-2162-4947-829e-b9c14389fecd" />
+
