@@ -25,6 +25,9 @@ Al finalizar la práctica, serás capaz de:
 - **Convertir** las ideas de mejora más importantes en una lista de tareas concretas y accionables.
 - **Asignar** un responsable a cada acción para asegurar su seguimiento en el próximo sprint.
 
+**Paso 3. Cierre formal.**
+- **Terminar** el sprint en Jira con el botón "Terminar sprint".
+
 ### Resultado Esperado
 Al finalizar esta práctica, el equipo tendrá:
 1.  Una **página de Notion** (o un tablero físico/digital) que documenta visualmente los puntos clave discutidos: los éxitos a mantener, los desafíos encontrados y las ideas para mejorar.
