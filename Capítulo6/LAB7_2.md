@@ -19,8 +19,16 @@ Al finalizar la práctica, serás capaz de:
 
 #### Tarea 2. Crear un Plan de Acción.
 **Paso 1. Documentar los Hallazgos.**
-- **Utilizar** una página de Confluence para documentar las ideas y puntos clave surgidos de la discusión.
+- **Utilizar** una página de Notion para documentar las ideas y puntos clave surgidos de la discusión.
 
 **Paso 2. Definir Acciones de Mejora.**
 - **Convertir** las ideas de mejora más importantes en una lista de tareas concretas y accionables.
 - **Asignar** un responsable a cada acción para asegurar su seguimiento en el próximo sprint.
+
+### Resultado Esperado
+Al finalizar esta práctica, el equipo tendrá:
+1.  Una **página de Notion** (o un tablero físico/digital) que documenta visualmente los puntos clave discutidos: los éxitos a mantener, los desafíos encontrados y las ideas para mejorar.
+2.  Un **Plan de Mejora Accionable:** una lista corta (idealmente de 1 a 3 ítems) de las acciones de mejora más importantes que el equipo se compromete a implementar en el próximo sprint.
+3.  **Responsables Asignados** para cada acción de mejora, asegurando que alguien se encargue de impulsar su implementación.
+4.  Una **mayor alineación y confianza** dentro del equipo, al haber creado un espacio seguro para discutir abiertamente los problemas y celebrar los éxitos.
+5.  **Experiencia práctica** en facilitar y participar en una ceremonia de mejora continua, una habilidad fundamental para cualquier equipo ágil.
