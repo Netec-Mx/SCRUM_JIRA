@@ -8,6 +8,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Duración aproximada:
 -   30 minutos.
+Nota: Grupo Completo
 
 ## Instrucciones
 
