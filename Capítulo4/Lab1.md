@@ -15,7 +15,7 @@ Generar las primeras plantillas dentro de Notion:
 
 
 ## Duración aproximada:
-- 15 minutos.
+- 20 minutos.
 
 ## Instrucciones 
 <!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
