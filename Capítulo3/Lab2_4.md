@@ -40,3 +40,10 @@ Al finalizar, el equipo tendrá un **Plan de Lanzamiento** documentado que inclu
 - Un alcance definido
 - Un pronóstico de entrega
 - Una lista de riesgos identificados con sus acciones de mitigación.
+
+<img width="520" height="267" alt="image" src="https://github.com/user-attachments/assets/c1af0d82-30fd-4278-8e8b-5302f2065e6e" />
+
+<img width="442" height="721" alt="image" src="https://github.com/user-attachments/assets/bef6a46f-1258-4670-9926-1a56a7972100" />
+
+<img width="471" height="242" alt="image" src="https://github.com/user-attachments/assets/8c1e70a8-b82a-4e79-89e1-7a07835bb213" />
+
