@@ -75,4 +75,6 @@ Notion:
 
 Jira:
 
+<img width="276" height="308" alt="image" src="https://github.com/user-attachments/assets/f86880ca-4249-4012-8a5f-cf8f28fc453b" />
+
 <img width="382" height="716" alt="image" src="https://github.com/user-attachments/assets/7258e37f-5635-4b31-b3fe-6cd321069010" />
