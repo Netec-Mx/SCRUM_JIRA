@@ -7,7 +7,7 @@ Al finalizar la práctica, serás capaz de:
 - **Adaptar** el Product Backlog basándose en la retroalimentación recibida.
 
 ## Duración aproximada:
-- 30 minutos.
+- 60 minutos.
 
 ## Instrucciones
 
