@@ -9,7 +9,7 @@ Al finalizar la práctica, serás capaz de:
 -   **Definir los criterios de finalización (Definition of Done) para una Épica.**
 
 ## Duración aproximada:
--   25 minutos.
+-   40 minutos.
 
 ## Instrucciones
 
