@@ -7,7 +7,7 @@ Al finalizar la práctica, serás capaz de:
 -   Identificar y mitigar proactivamente los riesgos y dependencias.
 
 ## Duración aproximada:
--   40 minutos.
+-   60 minutos.
 
 Nota: Práctica en grupos.
 ## Instrucciones
