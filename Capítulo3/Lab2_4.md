@@ -43,7 +43,10 @@ Al finalizar, el equipo tendrá un **Plan de Lanzamiento** documentado que inclu
 
 <img width="520" height="267" alt="image" src="https://github.com/user-attachments/assets/c1af0d82-30fd-4278-8e8b-5302f2065e6e" />
 
-<img width="442" height="721" alt="image" src="https://github.com/user-attachments/assets/bef6a46f-1258-4670-9926-1a56a7972100" />
+<img width="508" height="600" alt="image" src="https://github.com/user-attachments/assets/25bff66e-d4a0-440b-a7e6-4501c38dd2de" />
 
-<img width="471" height="242" alt="image" src="https://github.com/user-attachments/assets/8c1e70a8-b82a-4e79-89e1-7a07835bb213" />
+<img width="488" height="250" alt="image" src="https://github.com/user-attachments/assets/17b93e92-7720-42dd-abb9-429c61424ec4" />
 
+<img width="485" height="499" alt="image" src="https://github.com/user-attachments/assets/f9004c08-86dc-4405-ba24-eb8095fb4540" />
+
+<img width="463" height="218" alt="image" src="https://github.com/user-attachments/assets/523542c5-163e-4f8f-94f1-ce7a9b368ca8" />
