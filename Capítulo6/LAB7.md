@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes la práctica de la **Revisión del Sprint** con su sección de **Resultado Esperado** añadida.
-
----
-
 # Práctica 8: Revisión del Sprint (Sprint Review)
 
 ## Objetivo de la práctica:
@@ -18,21 +14,20 @@ Al finalizar la práctica, serás capaz de:
 #### Tarea 1. Preparar la Demostración.
 **Paso 1. Revisar los Criterios de Aceptación.**
 - **Revisar** cada Historia de Usuario completada en el sprint y verificar que todos sus Criterios de Aceptación se cumplen.
-- **Preparar** una demostración del software funcionando que muestre cómo se satisface cada criterio.
+- **Preparar** una demostración del software funcionando que muestre cómo se satisface cada criterio considerando la simulación que hicieron en el ejercicio anterior.
 
 #### Tarea 2. Facilitar la Sesión de Feedback.
 **Paso 1. Demostrar el Incremento.**
-- **Presentar** el trabajo completado a los stakeholders, enfocándose en el valor de negocio entregado y cómo resuelve los problemas del usuario.
+- **Presentar** el trabajo completado a los stakeholders (Instructor), enfocándose en el valor de negocio entregado y cómo resuelve los problemas del usuario.
 
 **Paso 2. Recopilar Retroalimentación.**
-- **Abrir** un espacio de diálogo para que los stakeholders hagan preguntas y den su opinión.
+- **Abrir** un espacio de diálogo para que los stakeholders (Instructor) hagan preguntas y den su opinión.
 - **Analizar** el impacto de no cumplir con ciertos criterios si fuera el caso, y discutir las consecuencias.
 
 **Paso 3. Adaptar el Product Backlog.**
 - **Determinar** junto al grupo las acciones a seguir con el feedback recibido (ej. crear nuevas historias, repriorizar existentes, ajustar una funcionalidad).
 - **Documentar** estas decisiones para que el Product Owner pueda actualizar el backlog.
 
----
 
 ### Resultado Esperado
 Al finalizar esta práctica, el equipo tendrá:
