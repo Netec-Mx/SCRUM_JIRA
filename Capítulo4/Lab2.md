@@ -7,7 +7,6 @@ Al finalizar la práctica, serás capaz de:
 
 ## Duración aproximada:
 - 20 minutos.
-Nota: Grupo Completo
 
 ## Instrucciones
 ### Tarea 1. Desarrollar la Visión del proyecto.
