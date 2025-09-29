@@ -8,7 +8,7 @@ Al finalizar la práctica, serás capaz de:
 - **Construir** y **analizar** los gráficos de progreso del sprint para tomar decisiones informadas.
 
 ## Duración aproximada:
-- 80 minutos.
+- 120 minutos.
 
 ## Instrucciones
 
