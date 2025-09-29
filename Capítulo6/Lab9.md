@@ -7,7 +7,7 @@ Al finalizar la práctica, serás capaz de:
 - **Construir** y **analizar** manualmente los reportes ágiles clave para visualizar el progreso del sprint.
 
 ## Duración aproximada:
-- 20 minutos
+- 38 minutos
 
 ## Instrucciones
 
