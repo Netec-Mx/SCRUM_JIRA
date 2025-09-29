@@ -6,7 +6,7 @@ Al finalizar la práctica, serás capaz de:
 - Identificar puntos que mejoran una declaración
 
 ## Duración aproximada:
-- 10 minutos.
+- 20 minutos.
 
 ## Instrucciones
 ### Tarea 1. Desarrollar la Visión del proyecto.
