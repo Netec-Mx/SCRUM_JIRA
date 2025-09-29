@@ -8,6 +8,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Duración aproximada:
 -   75 minutos.
+Nota: Grupo Completo
 
 ## Requerimientos
 Utilizar la herramienta de https://planningpokeronline.com.
