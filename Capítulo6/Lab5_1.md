@@ -1,4 +1,4 @@
-# Práctica 8: Revisión del Sprint (Sprint Review)
+# Revisión del Sprint (Sprint Review)
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
