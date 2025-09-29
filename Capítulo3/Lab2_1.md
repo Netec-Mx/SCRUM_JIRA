@@ -46,7 +46,7 @@ Paso 4. Definir las Métricas de Éxito.
 Paso 5. Definir el Alcance (Crear las Épicas).
 - Identificar las funcionalidades de alto nivel (Épicas) que son esenciales para cumplir la Visión.
 - Aplicar las técnicas de la práctica de "Desarrollo de Épicas" para **listarlas** y **priorizarlas**.
-- Clasificar claramente las Épicas en dos categorías para gestionar expectativas: **"EN ALCANCE"** (para la primera gran versión) y **"FUERA DE ALCANCE"** (para futuras versiones).
+- Clasificar claramente las Épicas en dos categorías para gestionar expectativas: **"EN ALCANCE"** (para la primera gran versión) y **"FUERA DE ALCANCE"** (para futuras versiones). Utilizar Jira para colocar en ese orden las épicas o desarrollar en una página de Notion.
 
 Paso 6. Identificar Riesgos y Suposiciones.
 - Facilitar una discusión para responder a las preguntas:
