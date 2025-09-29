@@ -6,7 +6,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Duración aproximada:
 - 35 minutos.
-### Grupo Completo
+Nota: Grupo Completo
 
 ## Instrucciones
 
