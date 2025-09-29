@@ -23,3 +23,11 @@ Al finalizar la práctica, serás capaz de:
 #### Tarea 2. Facilitar la Retrospectiva de la Liberación.
 **Paso 1. Reflexionar sobre el Ciclo Completo.**
 - **Analizar** con el equipo los procesos de todo el ciclo de la liberación, desde la planificación hasta la entrega. ¿Qué aprendimos a nivel estratégico? ¿Nuestras estimaciones fueron acertadas a largo plazo?
+
+### Resultado Esperado
+Al finalizar esta práctica, el equipo tendrá:
+1.  Una **demostración exitosa** del producto liberado, validando el cumplimiento del Release Goal ante los stakeholders.
+2.  Una **visión compartida y alineada** del valor total entregado durante el ciclo de la liberación.
+3.  Un **documento de retrospectiva** que resume los aprendizajes clave a nivel estratégico, incluyendo qué funcionó bien y qué se puede mejorar en el proceso de planificación y entrega a largo plazo.
+4.  Un **Plan de Mejora Estratégico:** una lista de acciones concretas que el equipo implementará para hacer que el próximo ciclo de liberación sea más eficiente, predecible y exitoso.
+5.  Una **mayor preparación del equipo** para afrontar escenarios y desafíos comunes durante un lanzamiento de producto real.
