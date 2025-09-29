@@ -9,6 +9,9 @@ Al finalizar la práctica, serás capaz de:
 
 Nota: Práctica en grupos.
 
+## Duración aproximada:
+-   75 minutos.
+
 ### Tarea 1. Preparar el Terreno para la Visión
 *Una buena reunión estratégica comienza antes de que todos entren a la sala.*
 
