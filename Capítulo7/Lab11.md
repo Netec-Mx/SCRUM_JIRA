@@ -6,7 +6,7 @@ Al finalizar la práctica, serás capaz de:
 - **Crear** un plan de acción concreto para mejorar continuamente los procesos del equipo.
 
 ### Duración aproximada:
-- 30 minutos.
+- 45 minutos.
 
 ### Instrucciones
 
