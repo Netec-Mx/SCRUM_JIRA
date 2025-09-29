@@ -1,11 +1,11 @@
-# Práctica: Análisis del Caso de Negocio
+# Análisis del Caso de Negocio
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
 - **Familiarizarte** con el contexto, los problemas y los objetivos del proyecto, sentando las bases para todas las actividades posteriores.
 
 ## Duración aproximada:
-- 15 minutos.
+- 35 minutos.
 
 ## Instrucciones
 
