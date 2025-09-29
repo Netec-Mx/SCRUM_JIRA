@@ -7,7 +7,7 @@ Al finalizar la práctica, serás capaz de:
 -   Colaborar con un equipo para alcanzar un consenso en las estimaciones.
 
 ## Duración aproximada:
--   30 minutos.
+-   75 minutos.
 
 ## Requerimientos
 Utilizar la herramienta de https://planningpokeronline.com.
