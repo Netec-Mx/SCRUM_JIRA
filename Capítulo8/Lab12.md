@@ -6,7 +6,7 @@ Al finalizar la práctica, serás capaz de:
 - **Reflexionar** sobre todo el ciclo de la liberación para identificar mejoras a nivel de proceso y estrategia.
 
 ### Duración aproximada:
-- 40 minutos.
+- 60 minutos.
 
 ### Instrucciones
 
