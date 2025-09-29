@@ -55,14 +55,6 @@ Al finalizar la práctica, serás capaz de:
 - **Dibujar** la línea de progreso: cada día, **marquen un punto** que represente la suma total de puntos de las historias completadas hasta ese día. Unan los puntos.
 - **Analizar:** ¿Qué tan cerca está la línea de progreso de alcanzar la línea de alcance total? ¿Qué pasaría si el alcance aumentara a mitad del sprint?
 
-#### Tarea 4. Finalizar el Sprint.
-**Paso 1. Completar el Trabajo.**
-- **Seleccionar** las historias de usuario que el equipo considerará "terminadas" al final del período del sprint.
-
-**Paso 2. Cerrar el Sprint en Jira.**
-- Una vez finalizado el período de tiempo simulado, **navegar** al menú **Backlog**.
-- **Hacer** clic en el botón **Completar Sprint** para cerrar formalmente el ciclo de trabajo.
-
 ### Resultado Esperado
 Al finalizar esta práctica, el equipo tendrá:
 
