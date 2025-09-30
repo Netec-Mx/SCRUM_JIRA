@@ -8,7 +8,7 @@ Al finalizar la práctica, serás capaz de:
 - **Implementar** el plan del sprint utilizando las herramientas Jira y Notion.
 
 ## Duración aproximada:
-- 60 minutos.
+- 75 minutos.
 
 ## Instrucciones
 
