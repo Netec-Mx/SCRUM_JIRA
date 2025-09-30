@@ -7,7 +7,7 @@ Al finalizar la práctica, serás capaz de:
 -   Colaborar con un equipo para alcanzar un consenso en las estimaciones.
 
 ## Duración aproximada:
--   75 minutos.
+-   50 minutos.
 Nota: Grupo Completo
 
 ## Requerimientos
