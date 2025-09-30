@@ -39,3 +39,7 @@ Al finalizar esta práctica, el equipo tendrá:
 <img width="1211" height="251" alt="image" src="https://github.com/user-attachments/assets/e143f83b-8c86-49cf-a978-e3da313766b4" />
 
 <img width="953" height="449" alt="image" src="https://github.com/user-attachments/assets/a7058c3c-2162-4947-829e-b9c14389fecd" />
+
+Alguna documentación relacionada con el nuevo ciclo, en Notion o en Jira:
+
+<img width="315" height="193" alt="image" src="https://github.com/user-attachments/assets/cc1f1ca7-7dc6-4b21-bf59-2eb6efcf604f" />
