@@ -35,3 +35,6 @@ Al finalizar esta práctica, el equipo tendrá:
 3.  **Responsables Asignados** para cada acción de mejora, asegurando que alguien se encargue de impulsar su implementación.
 4.  Una **mayor alineación y confianza** dentro del equipo, al haber creado un espacio seguro para discutir abiertamente los problemas y celebrar los éxitos.
 5.  **Experiencia práctica** en facilitar y participar en una ceremonia de mejora continua, una habilidad fundamental para cualquier equipo ágil.
+
+
+<img width="526" height="811" alt="image" src="https://github.com/user-attachments/assets/ad8164a0-dcd1-48de-a7d7-128649c62f60" />
