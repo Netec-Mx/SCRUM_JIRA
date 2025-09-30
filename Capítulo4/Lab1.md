@@ -2,9 +2,9 @@
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Crear una cuenta en la plataforma de Atlassian.
-- Crear un proyecto dentro del software de Jira
-- Utilizar notion para comenzar a documentar
+- Crear una cuenta en la plataforma de Atlassian y Notion.
+- Crear un proyecto dentro del software de Jira y Notion.
+- Utilizar notion para comenzar a documentar.
 
 ## Objetivo Visual 
 Generar un proyecto dentro de Jira:
