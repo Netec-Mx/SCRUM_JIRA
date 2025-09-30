@@ -15,7 +15,7 @@ Generar las primeras plantillas dentro de Notion:
 
 
 ## Duración aproximada:
-- 20 minutos.
+- 30 minutos.
 Nota: Grupo Completo
 
 ## Instrucciones 
