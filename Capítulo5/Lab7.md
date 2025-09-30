@@ -56,6 +56,13 @@ Paso 6. Ejecutar el Ciclo de Estimación (Planning Poker).
 Paso 7. Repetir el Proceso.
 -   Continuar con el ciclo de "Presentar -> Discutir -> Votar -> Consensuar" para el resto de las Historias de Usuario.
 
+Paso 8. Colocación en Jira
+-   Dentro de Jira selecciona el guión de la historia de usuario que hayas calificado en el backlog para modificar su valor
+<img width="1281" height="95" alt="image" src="https://github.com/user-attachments/assets/f997716e-23d0-4635-990e-b21924428a5d" />
+
+-   También lo puedes hacer seleccionando la historia y buscando la opción "Story points"
+<img width="761" height="636" alt="image" src="https://github.com/user-attachments/assets/62d58a7f-a62b-4635-b028-cc03ad1d495c" />
+
 ### Resultado Esperado
 Al finalizar, el equipo tendrá un conjunto de Historias de Usuario del backlog con una estimación de esfuerzo en puntos acordada por consenso. Más importante aún, el equipo tendrá una **comprensión compartida y profunda** del trabajo que implica cada historia, gracias a las discusiones durante el proceso de estimación.
 
@@ -63,3 +70,6 @@ Al finalizar, el equipo tendrá un conjunto de Historias de Usuario del backlog 
 -   HU 1.1: Crear cuenta con email/redes sociales - **8 puntos**
 -   HU 1.2: Recuperar contraseña - **5 puntos**
 -   HU 3.2: Mostrar tiempo estimado de entrega - **8 puntos**
+
+<img width="1279" height="235" alt="image" src="https://github.com/user-attachments/assets/93b4e589-f8ee-4698-9692-c528ca95779d" />
+
