@@ -6,7 +6,7 @@ Al finalizar la práctica, serás capaz de:
 - Identificar puntos que mejoran una declaración
 
 ## Duración aproximada:
-- 20 minutos.
+- 30 minutos.
 Nota: Grupo Completo
 
 ## Instrucciones
