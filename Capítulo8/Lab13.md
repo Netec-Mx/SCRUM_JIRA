@@ -5,7 +5,7 @@ Al finalizar la práctica, serás capaz de:
 - **Integrar** todos los eventos y procesos de Scrum para iniciar un nuevo ciclo de desarrollo después de una liberación.
 
 ### Duración aproximada:
-- 45 minutos.
+- 65 minutos.
 
 ### Instrucciones
 
