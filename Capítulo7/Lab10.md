@@ -36,3 +36,9 @@ Al finalizar esta práctica, el equipo tendrá:
 3.  Un **Product Backlog actualizado y adaptado**, que refleja las decisiones tomadas a partir de la retroalimentación. Esto puede incluir nuevas Historias de Usuario, la repriorización de ítems existentes o ajustes en el plan de lanzamiento.
 4.  Una **alineación clara** entre el equipo y los stakeholders sobre el estado actual del producto y las prioridades para el futuro inmediato.
 5.  **Experiencia práctica** para el equipo en la presentación de su trabajo y en la facilitación de una sesión de feedback constructivo.
+
+<img width="729" height="388" alt="image" src="https://github.com/user-attachments/assets/f4fa5e4c-f761-4a73-99f9-86d17c363bf6" />
+
+<img width="715" height="538" alt="image" src="https://github.com/user-attachments/assets/b282ed1a-322a-4a30-b8b6-d48f93d2ae58" />
+
+<img width="704" height="558" alt="image" src="https://github.com/user-attachments/assets/538318ec-3935-4e93-9f0a-4cd0bce6862e" />
