@@ -18,6 +18,7 @@ Paso 2. Analizar las principales problemáticas que se plantean en el caso de ne
 Paso 3. Utilizar las plantillas dadas en Notion en la sección Visión del Proyecto para desarrollar los siguientes pasos.
 
 Paso 4. Desarrollar soluciones a las problemáticas planteadas anteriormente para tomarlas de referencia en la declaración de visión del proyecto.
+- Basta con dark click dentro de la tabla.
 
 <img width="390" height="220" alt="image" src="https://github.com/user-attachments/assets/72e1b064-7e26-4ff1-946b-ebe58af6e73f" />
 
