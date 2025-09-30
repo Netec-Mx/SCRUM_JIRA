@@ -7,7 +7,7 @@ Al finalizar la práctica, serás capaz de:
 -   **Definir** Criterios de Aceptación específicos y verificables para cada historia.
 
 ## Duración aproximada:
--   30 minutos.
+-   60 minutos.
 Nota: Grupo Completo
 
 ## Instrucciones
