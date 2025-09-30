@@ -36,3 +36,6 @@ Al finalizar esta práctica, el equipo tendrá:
 
 <img width="501" height="699" alt="image" src="https://github.com/user-attachments/assets/59898be9-f1f9-448a-b187-f75499bee4ec" />
 
+<img width="1211" height="251" alt="image" src="https://github.com/user-attachments/assets/e143f83b-8c86-49cf-a978-e3da313766b4" />
+
+<img width="953" height="449" alt="image" src="https://github.com/user-attachments/assets/a7058c3c-2162-4947-829e-b9c14389fecd" />
