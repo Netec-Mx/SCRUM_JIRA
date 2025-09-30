@@ -29,8 +29,7 @@ El objetivo de esta práctica es tomar una iniciativa de alto nivel (una Épica)
     > **Como** [tipo de usuario], **quiero** [realizar una acción], **para** [obtener un beneficio].
 -   **Asegurarse** de que cada historia sea lo suficientemente pequeña para poder ser completada en un solo sprint.
 -   Identificar en jira el botón de creación en el Backlog.
-<img width="1629" height="815" alt="image" src="https://github.com/user-attachments/assets/e259ca87-52d3-4fe5-b7ba-4c48a8880181" />
-
+- <img width="1629" height="815" alt="image" src="https://github.com/user-attachments/assets/e259ca87-52d3-4fe5-b7ba-4c48a8880181" />
 -   Seleccionar el botón y escoger el tipo de item que se generará, en este caso Historia de Usuario
   <img width="1314" height="326" alt="image" src="https://github.com/user-attachments/assets/15695c25-da2c-48b2-911b-6674461c1bd1" />
 -   Redactar la historia de usuario y ligarla con la épica de la que surge en la opción "Parent" viendo los detalles de la historia
