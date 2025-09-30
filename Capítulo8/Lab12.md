@@ -31,3 +31,7 @@ Al finalizar esta práctica, el equipo tendrá:
 3.  Un **documento de retrospectiva** que resume los aprendizajes clave a nivel estratégico, incluyendo qué funcionó bien y qué se puede mejorar en el proceso de planificación y entrega a largo plazo.
 4.  Un **Plan de Mejora Estratégico:** una lista de acciones concretas que el equipo implementará para hacer que el próximo ciclo de liberación sea más eficiente, predecible y exitoso.
 5.  Una **mayor preparación del equipo** para afrontar escenarios y desafíos comunes durante un lanzamiento de producto real.
+
+<img width="525" height="500" alt="image" src="https://github.com/user-attachments/assets/c52dd344-b813-4edb-bc93-3b605cb8a726" />
+
+<img width="516" height="286" alt="image" src="https://github.com/user-attachments/assets/f4157384-1e90-44b8-8562-22fd7511acc9" />
