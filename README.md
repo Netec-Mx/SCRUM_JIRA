@@ -44,7 +44,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
       - Crear las épicas de una visión del proyecto
       - Identificar las responsabilidades que lleva a cabo cada uno de los roles principales de la gestión Scrum
       - Generar una definición de terminado adecuada.
-     - ⏱️ **Duración estimada**: 75 min.
+   - ⏱️ **Duración estimada**: 75 min.
 
 ### [Práctica 6. Planificación de lanzamiento (_Release Planning_)](./Lab5.md)
    - **Descripción**: al finalizar la práctica, serás capaz de:
@@ -100,13 +100,16 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
       - **Presentar** el valor acumulado de varios sprints en una liberación de producto.
       - **Reflexionar** sobre todo el ciclo de la liberación para identificar mejoras a nivel de proceso y estrategia.
    - ⏱️ **Duración estimada**: 60 min.
-   - 
+
 ### [Práctica 14. El proceso iterativo (nuevo ciclo)](./Lab13.md)
    - **Descripción**: Al finalizar la práctica, serás capaz de:
       - **Integrar** todos los eventos y procesos de Scrum para iniciar un nuevo ciclo de desarrollo después de una liberación.
    - ⏱️ **Duración estimada**: 65 min.
 
----
+
+
+
+
 
 ## 📬 **Contacto y más información**
 
