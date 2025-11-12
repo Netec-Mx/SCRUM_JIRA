@@ -1,10 +1,10 @@
-# Práctica 8. Estimación con Puntos de Historia (Planning Poker)
+# Práctica 8. Estimación con puntos de historia (_Planning Poker_)
 
-## Objetivo de la práctica:
+## Objetivos
 Al finalizar la práctica, serás capaz de:
--   Estimar el esfuerzo relativo de Historias de Usuario utilizando la técnica de Planning Poker.
--   Aplicar el concepto de tamaño relativo (complejidad, incertidumbre, esfuerzo) en lugar de tiempo.
--   Colaborar con un equipo para alcanzar un consenso en las estimaciones.
+- Estimar el esfuerzo relativo de historias de usuario utilizando la técnica de _Planning Poker_.
+- Aplicar el concepto de tamaño relativo (complejidad, incertidumbre, esfuerzo) en lugar de tiempo.
+- Colaborar con un equipo para alcanzar un consenso en las estimaciones.
 
 ## Duración aproximada:
 -   50 minutos.
