@@ -1,12 +1,12 @@
-# Práctica 10. El Sprint en Acción: Daily Stand-up y Seguimiento
+# Práctica 10. El sprint en acción: _Daily Stand-Up_ y seguimiento
 
-## Objetivo de la práctica:
+## Objetivos
 Al finalizar la práctica, serás capaz de:
-- **Facilitar** y participar eficazmente en una reunión Daily Stand-up.
-- **Actualizar** el estado del trabajo en un tablero Kanban/Scrum.
+- **Facilitar** y participar eficazmente en una reunión _Daily Stand-Up_.
+- **Actualizar** el estado del trabajo en un tablero Kanban o Scrum.
 - **Construir** y **analizar** manualmente los reportes ágiles clave para visualizar el progreso del sprint.
 
-## Duración aproximada:
+## Duración aproximada
 - 38 minutos
 
 ## Instrucciones
