@@ -1,11 +1,12 @@
-# Práctica 14. El Proceso Iterativo (Nuevo Ciclo)
+# Práctica 14. El proceso iterativo (nuevo ciclo)
 
-### Objetivo de la práctica:
+### Objetivo
 Al finalizar la práctica, serás capaz de:
 - **Integrar** todos los eventos y procesos de Scrum para iniciar un nuevo ciclo de desarrollo después de una liberación.
 
-### Duración aproximada:
+### Duración aproximada
 - 65 minutos.
+
 
 ### Instrucciones
 
