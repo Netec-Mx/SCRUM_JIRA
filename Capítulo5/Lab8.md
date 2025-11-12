@@ -1,13 +1,13 @@
-# Práctica 9. Reunión de Planificación del Sprint
+# Práctica 9. Reunión de planificación del sprint
 
-## Objetivo de la práctica:
+## Objetivos
 Al finalizar la práctica, serás capaz de:
 - **Facilitar** una reunión de Sprint Planning de principio a fin.
-- **Definir** un Sprint Goal claro y motivador.
+- **Definir** un _sprint goal_ claro y motivador.
 - **Seleccionar** y planificar el trabajo para un sprint, creando un Sprint Backlog.
-- **Implementar** el plan del sprint utilizando las herramientas Jira y Notion.
+- **Implementar** el plan del sprint utilizando Jira y Notion.
 
-## Duración aproximada:
+## Duración aproximada
 - 75 minutos.
 
 ## Instrucciones
