@@ -10,62 +10,73 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Scrum Mas
 
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
-### [Práctica 0. Nombre de la práctica](./Lab0.md)
+### [Práctica 1. Análisis del caso de negocio](./Lab0.md)
+   - **Descripción**: al finalizar la práctica, serás capaz de:
+      - Familiarizarte con el contexto, los problemas y los objetivos del proyecto, sentando las bases para las actividades posteriores.
+      - Asegurar que todo el equipo tenga una comprensión profunda y alineada del caso de negocio antes de comenzar con la planificación y el desarrollo.
+   - ⏱️ **Duración estimada**: 35 min.
+
+### [Práctica 2. Creación de la cuenta](./Lab1.md)
+   - **Descripción**:
+     Al finalizar la práctica, serás capaz de:
+      - Crear una cuenta en la plataforma de Atlassian y Notion.
+      - Crear un proyecto dentro del software de Jira y Notion.
+      - Utilizar Notion para documentar.
+   - ⏱️ **Duración estimada**: 30 min.
+
+### [Práctica 3. Visión del proyecto](./Lab2.md)
+   - **Descripción**: al finalizar la práctica, serás capaz de:
+      - Desarrollar la declaración de la visión del proyecto.
+      - Identificar los puntos que mejoran una declaración.
+   - ⏱️ **Duración estimada**: 30 min.
+
+### [Práctica 4. Desarrollo y definición de épicas](./Lab3.md)
+   - **Descripción**: al finalizar la práctica, serás capaz de:
+      -   Redactar las épicas necesarias a partir de una visión de proyecto.
+      -   Comprender la estructura y los componentes clave de una épica.
+      -   Implementar y detallar épicas dentro de Jira.
+      -   Definir los criterios de finalización (_definition of done_) para una épica.
+   - ⏱️ **Duración estimada**: 40 min.
+
+### [Práctica 5. Nombre de la práctica](./Lab4.md)
    - **Descripción**: xxx.
    - ⏱️ **Duración estimada**: xx min.
 
-### [Práctica 1. Nombre de la práctica](./Lab1.md)
+### [Práctica 6. Nombre de la práctica](./Lab5.md)
    - **Descripción**: xxx.
    - ⏱️ **Duración estimada**: xx min.
 
-### [Práctica 2. Nombre de la práctica](./Lab2.md)
+### [Práctica 7. Nombre de la práctica](./Lab6.md)
    - **Descripción**: xxx.
    - ⏱️ **Duración estimada**: xx min.
 
-### [Práctica 3. Nombre de la práctica](./Lab3.md)
+### [Práctica 8. Nombre de la práctica](./Lab7.md)
    - **Descripción**: xxx.
    - ⏱️ **Duración estimada**: xx min.
 
-### [Práctica 4. Nombre de la práctica](./Lab4.md)
+### [Práctica 9. Nombre de la práctica](./Lab8.md)
    - **Descripción**: xxx.
    - ⏱️ **Duración estimada**: xx min.
 
-### [Práctica 5. Nombre de la práctica](./Lab5.md)
+### [Práctica 10. Nombre de la práctica](./Lab9.md)
    - **Descripción**: xxx.
    - ⏱️ **Duración estimada**: xx min.
 
-### [Práctica 6. Nombre de la práctica](./Lab6.md)
+### [Práctica 11. Nombre de la práctica](./Lab10.md)
    - **Descripción**: xxx.
    - ⏱️ **Duración estimada**: xx min.
 
-### [Práctica 7. Nombre de la práctica](./Lab7.md)
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
-
-### [Práctica 8. Nombre de la práctica](./Lab8.md)
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
-
-### [Práctica 9. Nombre de la práctica](./Lab9.md)
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
-
-### [Práctica 10. Nombre de la práctica](./Lab10.md)
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
-
-### [Práctica 11. Nombre de la práctica](./Lab11.md)
-   - **Descripción**: xxx.
-   - ⏱️ **Duración estimada**: xx min.
-
-### [Práctica 12. Nombre de la práctica](./Lab12.md)
+### [Práctica 12. Nombre de la práctica](./Lab11.md)
    - **Descripción**: xxx.
    - ⏱️ **Duración estimada**: xx min.
 
 ### [Práctica 13. Nombre de la práctica](./Lab12.md)
    - **Descripción**: xxx.
    - ⏱️ **Duración estimada**: xx min.
-
+   - 
+### [Práctica 13. Nombre de la práctica](./Lab14.md)
+   - **Descripción**: xxx.
+   - ⏱️ **Duración estimada**: xx min.
 ---
 
 ## 📬 **Contacto y más información**
@@ -74,4 +85,4 @@ Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](
 
 ---
 
-¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.<img width="921" height="861" alt="image" src="https://github.com/user-attachments/assets/19ce6d69-3b5a-4666-8bb6-9d25759e5bc4" />
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
