@@ -1,4 +1,4 @@
-# Revisión del Sprint (Sprint Review)
+# Práctica 11. Revisión del Sprint (Sprint Review)
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
