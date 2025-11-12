@@ -67,7 +67,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
       - Colaborar con un equipo para alcanzar un consenso en las estimaciones.
    - ⏱️ **Duración estimada**: 50 min.
 
-### [Práctica 9. Nombre de la práctica](./Lab8.md)
+### [Práctica 9. Reunión de planificación del sprint](./Lab8.md)
    - **Descripción**: al finalizar la práctica, serás capaz de:
       - **Facilitar** una reunión de Sprint Planning de principio a fin.
       - **Definir** un _sprint goal_ claro y motivador.
