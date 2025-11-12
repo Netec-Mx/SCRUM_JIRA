@@ -1,4 +1,4 @@
-# Retrospectiva del Sprint
+# Práctica 12. Retrospectiva del Sprint
 
 ### Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
