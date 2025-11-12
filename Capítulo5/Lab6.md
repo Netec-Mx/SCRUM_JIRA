@@ -1,4 +1,4 @@
-# Desarrollo de Historias de Usuario
+# Práctica 7. Desarrollo de Historias de Usuario
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
