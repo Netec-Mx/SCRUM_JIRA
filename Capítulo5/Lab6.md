@@ -1,14 +1,13 @@
-# Práctica 7. Desarrollo de Historias de Usuario
+# Práctica 7. Desarrollo de historias de usuario
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
--   **Descomponer** una Épica en Historias de Usuario manejables y centradas en el valor.
--   **Escribir** Historias de Usuario claras y concisas utilizando el formato estándar.
--   **Definir** Criterios de Aceptación específicos y verificables para cada historia.
+-   **Descomponer** una épica en historias de usuario manejables y centradas en el valor.
+-   **Escribir** historias de usuario claras y concisas utilizando el formato estándar.
+-   **Definir** criterios de aceptación específicos y verificables para cada historia.
 
 ## Duración aproximada:
 -   60 minutos.
-Nota: Grupo Completo
 
 ## Instrucciones
 
