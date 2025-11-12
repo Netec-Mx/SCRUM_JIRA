@@ -1,4 +1,4 @@
-# Estimación con Puntos de Historia (Planning Poker)
+# Práctica 8. Estimación con Puntos de Historia (Planning Poker)
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
