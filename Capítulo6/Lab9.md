@@ -1,4 +1,4 @@
-# El Sprint en Acción: Daily Stand-up y Seguimiento
+# Práctica 10. El Sprint en Acción: Daily Stand-up y Seguimiento
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
