@@ -1,4 +1,4 @@
-# Práctica 6. Planificación de Lanzamiento (Release Planning)
+# Práctica 6. Planificación de lanzamiento (_Release Planning_)
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
