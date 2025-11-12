@@ -1,4 +1,4 @@
-# Práctica 13. Liberación y reunión de retrospectiva de la liberación 
+# Práctica 13. Liberación y retrospectiva de la liberación 
 
 ### Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
