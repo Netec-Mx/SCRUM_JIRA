@@ -1,4 +1,4 @@
-# Reunión de Planificación del Sprint
+# Práctica 9. Reunión de Planificación del Sprint
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
