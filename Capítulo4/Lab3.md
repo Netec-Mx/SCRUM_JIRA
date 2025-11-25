@@ -15,53 +15,49 @@ Al finalizar la práctica, serás capaz de:
 
 ### Tarea 1. De la visión a la épica
 
-**Paso 1.** Conectar con la visión.
-Analizar la **visión del proyecto** y los objetivos estratégicos definidos en la práctica anterior. La visión es la fuente de la cual nacerán todas las épicas.
+**Paso 1.** Analizar la **visión del proyecto** y los objetivos estratégicos definidos en la práctica anterior. La visión es la fuente de la cual nacerán todas las épicas.
 
-**Paso 2.** Identificar las funcionalidades de valor.
-Identificar las grandes iniciativas o "funcionalidades" de trabajo necesarios para cumplir esa visión, son como los capítulos de la historia del producto. Cada uno de estos pilares será una épica.
+**Paso 2.** Identificar las grandes iniciativas o "funcionalidades" de trabajo necesarios para cumplir esa visión, son como los capítulos de la historia del producto. Cada uno de estos pilares será una épica.
 
-**Paso 3.** Estructurar la épica.
-- Para cada épica identificada, redactar los siguientes componentes clave antes de pasar a Jira:
+**Paso 3.** Para cada épica identificada, redactar los siguientes componentes clave antes de pasar a Jira.
 *   **Título corto y descriptivo:** ej.: "Gestión de cuentas de usuario".
-*   **Descripción (el "porqué"):** un breve párrafo que explique qué problema resuelve, para quién y qué valor de negocio aporta. Ej.: "Facilitar a los usuarios la creación y gestión de sus cuentas para una experiencia de compra personalizada y segura, aumentando la retención y permitiendo el seguimiento de pedidos."*
+*   **Descripción (el "porqué"):** un breve párrafo que explique qué problema resuelve, para quién y qué valor de negocio aporta. Ej.: "Facilitar a los usuarios la creación y gestión de sus cuentas para una experiencia de compra personalizada y segura, aumentando la retención y permitiendo el seguimiento de pedidos".
 
 ### Tarea 2. Implementación: crear y detallar las épicas en Jira
 
-**Paso 1.** Navegar al Backlog.
-Dentro del proyecto de Jira, seleccionar el menú **Backlog** en el panel de la izquierda.
+**Paso 1.** Dentro del proyecto de Jira, seleccionar el menú **Backlog** en el panel de la izquierda.
 
 <img width="921" height="467" alt="image" src="https://github.com/user-attachments/assets/9d368be0-92b3-4ea1-b5b4-04e9fc0dc1b8" />
 
-**Paso 2.** Activar el panel de épicas.
-Seleccionar el botón `Épicas` (o `Epics`) en el menú superior del backlog. Se abrirá un panel lateral, generalmente a la izquierda.
-*Nota. El botón se mantendrá resaltado (a menudo en verde o azul) para indicar que el panel está activo.*
+**Paso 2.** Seleccionar el botón `Épicas` (o `Epics`) en el menú superior del backlog. Se abrirá un panel lateral, generalmente a la izquierda.
+
+> **Nota**
+> 
+> El botón se mantendrá resaltado (a menudo en verde o azul) para indicar que el panel está activo.
+
 
 <img width="921" height="463" alt="image" src="https://github.com/user-attachments/assets/3ba142d1-afe5-42be-8ade-2bc7c7f0362a" />
 
-**Paso 3.** Crear épicas.
-En el panel de `Épicas`, hacer clic en el botón `Crear Épica` (o `Create Epic`).
+**Paso 3.** En el panel de `Épicas`, hacer clic en el botón `Crear Épica` (o `Create Epic`).
 
 <img width="921" height="463" alt="image" src="https://github.com/user-attachments/assets/b268ccab-19a9-4e5b-9fe0-7b8f745be7fd" />
 
-**Paso 4.** Nombrar la épica.
-Escribir el **título corto y descriptivo** de tu épica y presiona `Enter`. Repetir este paso hasta que todas las épicas identificadas estén listadas en el panel.
+**Paso 4.** Escribir un **título corto y descriptivo** de la épica y presiona `Enter`. Repetir este paso hasta que todas las épicas identificadas estén listadas en el panel.
 
 <img width="921" height="461" alt="image" src="https://github.com/user-attachments/assets/cce79491-4824-4881-81a8-4103b235648e" />
 
-**Paso 5.** Detallar la épica.
-Una vez creada, hacer clic en el nombre de la épica para abrir su vista de detalles. Añadir aquí el contexto.
+**Paso 5.** Una vez creada, hacer clic en el nombre de la épica para abrir su vista de detalles. Añadir aquí el contexto.
 
 <img width="921" height="464" alt="image" src="https://github.com/user-attachments/assets/2ab4ad90-ab8d-4eac-941f-e038555e3bd5" />
 
-*   En el campo `Descripción`, pegar la descripción detallada (el "porqué") escrito en la Tarea 1. Esto es crucial para que cualquier persona del equipo entienda el propósito de la épica.
+**Paso 6.** En el campo `Descripción`, pegar la descripción detallada (el "porqué") escrito en la **Tarea 1**. Esto es crucial para que cualquier persona del equipo entienda el propósito de la épica.
 
 <img width="921" height="464" alt="image" src="https://github.com/user-attachments/assets/6ee2aa60-cfb7-4607-ba02-bf02e8f4a8df" />
 
 
 ### Tarea 3. Definición: establecer la _Definition of done_ para una épica
 
-*Una épica no está "hecha" cuando se escribe, sino cuando el valor que promete se ha entregado y verificado. La **definición de hecho** (DoD) establece cómo se sabrá que eso ha ocurrido.
+* Una épica no está "hecha" cuando se escribe, sino cuando el valor que promete se ha entregado y verificado. La **definición de hecho** (DoD) establece cómo se sabrá que eso ha ocurrido.
 
 **Paso 1.** Comprender la DoD de una Épica.
 A diferencia de una Historia de Usuario (cuyo DoD puede ser "código probado y desplegado"), la DoD de una Épica es de más alto nivel y se enfoca en el **valor de negocio**.
@@ -69,7 +65,7 @@ A diferencia de una Historia de Usuario (cuyo DoD puede ser "código probado y d
 **Paso 2.** Desarrollar el _checklist_ de finalización.
 Para la épica detallada en Jira, discutir y redactar un _checklist_ que defina sus condiciones de finalización. Utilizar la siguiente plantilla como guía.
 
-**Paso 3. Añadir la DoD a Jira.
+**Paso 3.** Añadir la DoD a Jira.
 Copiar y pegar el _checklist_ de DoD en el campo `Descripción` de la épica en Jira, debajo de la descripción general ya escrita.
 
 
