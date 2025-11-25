@@ -27,6 +27,5 @@ Al finalizar la práctica, serás capaz de:
 ---
 
 ### Resultado esperado
-Al finalizar esta práctica, tendrás:
-1.  Una **comprensión fundamental y compartida** del contexto del proyecto, incluyendo sus problemas, objetivos y alcance inicial.
-2.  Una **base de conocimiento sólida** sobre la cual se construirán todas las demás prácticas y decisiones del proyecto.
+- Una **comprensión fundamental y compartida** del contexto del proyecto, incluyendo sus problemas, objetivos y alcance inicial.
+- Una **base de conocimiento sólida** sobre la cual se construirán todas las demás prácticas y decisiones del proyecto.
