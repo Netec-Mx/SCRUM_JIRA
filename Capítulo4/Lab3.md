@@ -6,7 +6,7 @@ Al finalizar la práctica, serás capaz de:
 -   Redactar las épicas necesarias a partir de una visión de proyecto.
 -   Comprender la estructura y los componentes clave de una épica.
 -   Implementar y detallar épicas dentro de Jira.
--   **Definir los criterios de finalización (_definition of done_) para una épica.**
+-   **Definir los criterios de finalización (_definition of done, DoD_) para una épica.**
 
 ## Duración aproximada
 -   40 minutos.
@@ -55,12 +55,12 @@ Al finalizar la práctica, serás capaz de:
 <img width="921" height="464" alt="image" src="https://github.com/user-attachments/assets/6ee2aa60-cfb7-4607-ba02-bf02e8f4a8df" />
 
 
-### Tarea 3. Definición: establecer la _Definition of done_ para una épica
+### Tarea 3. Definición: establecer la _definition of done_ para una épica
 
-* Una épica no está "hecha" cuando se escribe, sino cuando el valor que promete se ha entregado y verificado. La **definición de hecho** (DoD) establece cómo se sabrá que eso ha ocurrido.
+Una épica no está "hecha" cuando se escribe, sino cuando el valor que promete se ha entregado y verificado. La DoD establece cómo se sabrá que eso ha ocurrido.
 
-**Paso 1.** Comprender la DoD de una Épica.
-A diferencia de una Historia de Usuario (cuyo DoD puede ser "código probado y desplegado"), la DoD de una Épica es de más alto nivel y se enfoca en el **valor de negocio**.
+**Paso 1.** Comprender la DoD de una épica.
+A diferencia de una _historia de usuario_ (cuyo DoD puede ser "código probado y desplegado"), la DoD de una épica es de más alto nivel y se enfoca en el **valor de negocio**.
 
 **Paso 2.** Desarrollar el _checklist_ de finalización.
 Para la épica detallada en Jira, discutir y redactar un _checklist_ que defina sus condiciones de finalización. Utilizar la siguiente plantilla como guía.
