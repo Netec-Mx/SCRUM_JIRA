@@ -88,9 +88,11 @@ Al finalizar la práctica, serás capaz de:
 <img width="296" height="294" alt="image" src="https://github.com/user-attachments/assets/e538053d-257a-4325-a8a0-158ccc43247c" />
 
 ### Resultado esperado
-Jira:
+
+#### Jira
+
 <img width="945" height="730" alt="image" src="https://github.com/user-attachments/assets/7436919a-593b-4257-987f-43d32e23ff7c" />
 
-Notion:
+#### Notion
 
 <img width="276" height="362" alt="image" src="https://github.com/user-attachments/assets/17ffc23e-01f2-4d0e-b2dd-9db129aaa677" />
