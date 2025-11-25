@@ -24,7 +24,7 @@ Al finalizar la práctica, serás capaz de:
 
 ## Instrucciones 
 ### Tarea 1. Crear la cuenta
-**Paso 1.** Ingresar a la página www.Atlassian.com.
+**Paso 1.** Ingresar a la página [www.Atlassian.com](www.Atlassian.com).
 
 <img width="921" height="468" alt="image" src="https://github.com/user-attachments/assets/abb1b536-4704-4020-bb68-c325883183f8" />
 
@@ -40,11 +40,11 @@ Al finalizar la práctica, serás capaz de:
 
 <img width="921" height="467" alt="image" src="https://github.com/user-attachments/assets/252e4ec8-5809-4315-8831-cadcf780799c" />
 
-**Paso 5.** Ingresar un correo o seleccionar una de las opciones y presionar `Registrarse `.
+**Paso 5.** Ingresar un correo o seleccionar una de las opciones y presionar `Registrarse`.
 
 <img width="921" height="466" alt="image" src="https://github.com/user-attachments/assets/011e92d4-3f23-42c1-9911-56ce12914494" />
 
-**Paso 6.** Ingresar el código que se envía al correo que ingresaste y seleccionar `Verificar`
+**Paso 6.** Ingresar el código que se envía al correo que ingresaste y seleccionar `Verificar`.
 
 <img width="921" height="465" alt="image" src="https://github.com/user-attachments/assets/2896ffb5-76ca-4a41-8629-5f3e460b5490" />
 
@@ -60,18 +60,18 @@ Al finalizar la práctica, serás capaz de:
  
 <img width="921" height="467" alt="image" src="https://github.com/user-attachments/assets/2dd7a339-2405-4bbe-ac07-24a203f74322" />
 
-**Paso 10.** Seleccionar la plantilla Scrum.
+**Paso 10.** Seleccionar la plantilla **Scrum**.
 
 <img width="921" height="464" alt="image" src="https://github.com/user-attachments/assets/63a31908-93f1-4a65-8f36-bb55b9ae56ab" />
 
-**Paso 11. ** Seleccionar un nombre para el proyecto.
+**Paso 11.** Seleccionar un nombre para el proyecto.
 
 <img width="921" height="468" alt="image" src="https://github.com/user-attachments/assets/2b99e55d-d8c1-4fda-831a-2c1f26a009f3" />
 
 
 ### Tarea 2. Crear cuenta con Notion
 
-**Paso 1.** Ingresar a www.notion.com.
+**Paso 1.** Ingresar a [www.notion.com](www.notion.com).
 
 <img width="931" height="567" alt="image" src="https://github.com/user-attachments/assets/6e5231d5-ed0e-415f-8df3-41b41f344e41" />
 
@@ -81,7 +81,7 @@ Al finalizar la práctica, serás capaz de:
 
 <img width="355" height="614" alt="image" src="https://github.com/user-attachments/assets/f32a22bc-7164-4c77-a030-ae9dd10bdc0d" />
 
-**Paso 4.** Utilizar la invitación o el link que comparta el instructor.
+**Paso 4.** Utilizar la invitación o la liga que comparta el instructor.
 
 **Paso 5.** Verificar el espacio de trabajo en la sección superior izquierda con el nombre `Espacio de trabajo de instrucción`. 
 
