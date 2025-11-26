@@ -1,6 +1,6 @@
 # Práctica 5. Reunión de visión del proyecto 
 
-## Objetivo de la práctica:
+## Objetivos
 Al finalizar la práctica, serás capaz de:
 - Desarrollar la declaración de visión del proyecto.
 - Crear las épicas de una visión del proyecto.
