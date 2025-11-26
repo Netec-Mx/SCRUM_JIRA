@@ -9,7 +9,7 @@ Al finalizar la práctica, serás capaz de:
 ## Duración aproximada
 -   50 minutos.
 
-> Nota. Grupo completo.
+> **Nota**. Grupo completo.
 
 ## Requerimientos
 Utilizar la herramienta de [https://planningpokeronline.com](https://planningpokeronline.com).
@@ -19,21 +19,20 @@ No se necesita cuenta.
 
 El objetivo de esta práctica es estimar de forma colaborativa el _tamaño_ de las historias de usuario que crearon en la práctica anterior. No estimaremos en horas o días, sino en **puntos de historia**, que representan una medida relativa del esfuerzo total.
 
-**Paso 1**. Entender el concepto de puntos de historia.
--   Recordar que los puntos de historia no son unidades de tiempo. Representan una combinación de:
-    -   Complejidad. ¿Qué tan difícil es de entender y resolver?
-    -   Incertidumbre. ¿Qué tanto se desconoce sobre lo que hay que hacer?
-    -   Esfuerzo. ¿Cuánto trabajo implica (diseñar, codificar, probar)?
+**Paso 1**. Entender el concepto de puntos de historia. Recordar que no son unidades de tiempo, si no que representan una combinación de:
+-   **Complejidad**. ¿Qué tan difícil es de entender y resolver?
+-   **Incertidumbre**. ¿Qué tanto se desconoce sobre lo que hay que hacer?
+-   **Esfuerzo**. ¿Cuánto trabajo implica (diseñar, codificar, probar)?
 
 **Paso 2**. Ingresar a la plataforma de: [https://planningpokeronline.com/]( https://planningpokeronline.com/).
 
-**Paso 3**. Seleccionar el botón de _Start Game_.
+**Paso 3**. Seleccionar el botón de `Start Game`.
 
 <img width="616" height="415" alt="image" src="https://github.com/user-attachments/assets/106424da-b8d4-4b45-8942-bf875645e11f" />
 
 **Paso 4**. Planificar la sesión de juego.
 -   Colocar un nombre para la sesión.
--   Utilizar la secuencia de Fibonacci modificada (0, 1, 2, 3, 5, 8, 13, 20...) para las estimaciones. Los saltos grandes nos obligan a agrupar las tareas por tamaño relativo en lugar de ser demasiado precisos.
+-   Utilizar la secuencia de Fibonacci modificada (0, 1, 2, 3, 5, 8, 13, 20...) para las estimaciones. Los saltos grandes obligan a agrupar las tareas por tamaño relativo en lugar de ser demasiado precisos.
 -   Seleccionar `Create Game`.
 
 <img width="869" height="555" alt="image" src="https://github.com/user-attachments/assets/6f5a5b13-78cb-4167-9ba2-b78853106ce7" />
@@ -55,11 +54,12 @@ El objetivo de esta práctica es estimar de forma colaborativa el _tamaño_ de l
 **Paso 7**. Repetir el proceso.
 -   Continuar con el ciclo de `Presentar -> Discutir -> Votar -> Consensuar` para el resto de las historias de usuario.
 
-**Paso 8**. Colocación en Jira
+**Paso 8**. Colocación en Jira.
 -   Dentro de Jira, seleccionar el guion de la historia de usuario calificado en el backlog para modificar su valor.
 <img width="1281" height="95" alt="image" src="https://github.com/user-attachments/assets/f997716e-23d0-4635-990e-b21924428a5d" />
 
 -   También se puede hacer seleccionando la historia y buscando la opción `Story points`.
+  
 <img width="761" height="636" alt="image" src="https://github.com/user-attachments/assets/62d58a7f-a62b-4635-b028-cc03ad1d495c" />
 
 ### Resultado esperado
