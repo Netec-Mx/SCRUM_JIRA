@@ -16,7 +16,7 @@ Al finalizar la práctica, serás capaz de:
 - **Revisar** cada historia de usuario completada en el sprint y verificar que todos sus criterios de aceptación se cumplan.
 - **Preparar** una demostración del _software_ funcionando que muestre cómo se satisface cada criterio considerando la simulación que hicieron en el ejercicio anterior.
 
-#### Tarea 2. Facilitar la sesión de feedback.
+#### Tarea 2. Facilitar la sesión de feedback
 **Paso 1.** Demostrar el incremento.
 - **Presentar** el trabajo completado a los stakeholders (el instructor), enfocándose en el valor de negocio entregado y cómo resuelve los problemas del usuario.
 
@@ -33,7 +33,7 @@ Al finalizar la práctica, serás capaz de:
 Al finalizar esta práctica, el equipo tendrá:
 -  Un **incremento de producto funcional** demostrado e inspeccionado por el _Scrum Team_ y los stakeholders.
 -   Una **lista documentada de la retroalimentación**, preguntas e ideas nuevas proporcionadas por los stakeholders durante la sesión.
--  Un **Product Backlog actualizado y adaptado**, que refleja las decisiones tomadas a partir de la retroalimentación. Esto puede incluir nuevas historias de usuario, larepriorización de ítems existentes o ajustes en el plan de lanzamiento.
+-  Un **Product Backlog actualizado y adaptado**, que refleja las decisiones tomadas a partir de la retroalimentación. Esto puede incluir nuevas historias de usuario, la repriorización de ítems existentes o ajustes en el plan de lanzamiento.
 -  Una **alineación clara** entre el equipo y los stakeholders sobre el estado actual del producto y las prioridades para el futuro inmediato.
 -  **Experiencia práctica** para el equipo en la presentación de su trabajo y en la facilitación de una sesión de feedback constructivo.
 
