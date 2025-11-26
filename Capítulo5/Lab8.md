@@ -44,7 +44,7 @@ El objetivo de esta práctica es simular la ceremonia de Sprint Planning. Como _
 ### Tarea 3. Crear el plan (el cómo)
 
 **Paso 1.** Desglosar las historias en tareas técnicas.
-- Para cada historia de usuario seleccionada, **realizar** un _brainstorming_ para identificar las tareas técnicas necesarias para completarla (ej. "crear _endpoint _en API", "diseñar componente en UI", "escribir pruebas de integración").
+- Para cada historia de usuario seleccionada, **realizar** un _brainstorming_ para identificar las tareas técnicas necesarias para completarla (ej. "crear _endpoint_ en API", "diseñar componente en UI", "escribir pruebas de integración").
 - Este desglose es el plan inicial del equipo y formará parte del **Sprint Backlog**.
 
 **Paso 2.** Validar el plan.
@@ -53,7 +53,7 @@ El objetivo de esta práctica es simular la ceremonia de Sprint Planning. Como _
 ### Tarea 4. Implementar y documentar el plan en las herramientas
 
 **Paso 1.** Crear las historias de usuario en Jira.
-- **Navegar** a la sección **Backlog**. En la parte inferior, **hacer** clic en **Crear** (o **Create**).
+- **Navegar** a la sección **Backlog**. En la parte inferior, **hacer** clic en **`Crear`** (o **`Create`**).
 - **Asegurarse** de que el tipo de incidencia sea **Historia** (Story), **escribir** el título de la historia y presionar `Enter`.
 - **Repetir** este paso para todas las historias seleccionadas.
 
