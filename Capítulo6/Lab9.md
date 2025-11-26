@@ -14,9 +14,9 @@ Al finalizar la práctica, serás capaz de:
 ### Tarea 1. Simular la Daily Stand-up.
 **Paso 1.** Preparar las respuestas.
 - **Responder** individualmente a las tres preguntas clave de la Daily Stand-up, basándose en el trabajo al que se comprometieron en la práctica anterior.
-    1. ¿Qué hice ayer para ayudar al equipo a cumplir el Sprint Goal?
-    2. ¿Qué haré hoy para ayudar al equipo a cumplir el Sprint Goal?
-    3. ¿Veo algún impedimento que nos impida a mí o al equipo cumplir el Sprint Goal?
+1. ¿Qué hice ayer para ayudar al equipo a cumplir el Sprint Goal?
+2. ¿Qué haré hoy para ayudar al equipo a cumplir el Sprint Goal?
+3. ¿Veo algún impedimento que nos impida a mí o al equipo cumplir el Sprint Goal?
 
 > **Nota**
 >
