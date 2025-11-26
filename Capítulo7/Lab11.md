@@ -11,22 +11,22 @@ Al finalizar la práctica, serás capaz de:
 ## Instrucciones
 
 ### Tarea 1. Facilitar la reflexión
-**Paso 1.** Responder a las preguntas clave
+**Paso 1.** Responder a las preguntas clave.
 - **Facilitar** una discusión guiada por las preguntas fundamentales de la retrospectiva.
-    - ¿Qué funcionó bien en este sprint que deberíamos seguir haciendo?
-    - ¿Qué no funcionó tan bien o nos ralentizó?
-    - ¿Qué intentaremos hacer de manera diferente en el próximo sprint?
+    - ¿Qué funcionó bien en este sprint que se debería seguir haciendo?
+    - ¿Qué no funcionó tan bien o ralentizó el sprint?
+    - ¿Qué se intentará hacer de manera diferente en el próximo sprint?
 
 ### Tarea 2. Crear un plan de acción
 **Paso 1.** Documentar los hallazgos.
 - **Utilizar** una página de Notion para documentar las ideas y puntos clave surgidos de la discusión.
 
-**Paso 2.** Definir acciones de mejora
+**Paso 2.** Definir acciones de mejora.
 - **Convertir** las ideas de mejora más importantes en una lista de tareas concretas y accionables.
 - **Asignar** un responsable a cada acción para asegurar su seguimiento en el próximo sprint.
 
 **Paso 3.** Cierre formal.
-- **Terminar** el sprint en Jira con el botón "Terminar sprint".
+- **Terminar** el sprint en Jira con el botón `Terminar sprint`.
 
 ## Resultado esperado
 Al finalizar esta práctica, el equipo tendrá:
