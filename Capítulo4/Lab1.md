@@ -44,7 +44,7 @@ Al finalizar la práctica, serás capaz de:
 
 <img width="921" height="466" alt="image" src="https://github.com/user-attachments/assets/011e92d4-3f23-42c1-9911-56ce12914494" />
 
-**Paso 6.** Ingresar el código que se envía al correo que ingresaste y seleccionar `Verificar`.
+**Paso 6.** Ingresar el código que se envía al correo registrado y seleccionar `Verificar`.
 
 <img width="921" height="465" alt="image" src="https://github.com/user-attachments/assets/2896ffb5-76ca-4a41-8629-5f3e460b5490" />
 
@@ -52,7 +52,7 @@ Al finalizar la práctica, serás capaz de:
 
 <img width="921" height="467" alt="image" src="https://github.com/user-attachments/assets/98a006bb-5ef9-4d69-ae81-a58a6d8b8349" />
 
-**Paso 8.** Introducir un nombre para tu sitio Atlassian en minúsculas y seleccionar `Continuar`.
+**Paso 8.** Introducir un nombre para el sitio Atlassian en minúsculas y seleccionar `Continuar`.
 
 <img width="921" height="467" alt="image" src="https://github.com/user-attachments/assets/1754234e-9aa0-49b0-815f-c0cd9f995914" />
 
@@ -60,7 +60,7 @@ Al finalizar la práctica, serás capaz de:
  
 <img width="921" height="467" alt="image" src="https://github.com/user-attachments/assets/2dd7a339-2405-4bbe-ac07-24a203f74322" />
 
-**Paso 10.** Seleccionar la plantilla **Scrum**.
+**Paso 10.** Seleccionar la plantilla `Scrum`.
 
 <img width="921" height="464" alt="image" src="https://github.com/user-attachments/assets/63a31908-93f1-4a65-8f36-bb55b9ae56ab" />
 
