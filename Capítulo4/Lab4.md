@@ -41,7 +41,7 @@ Al finalizar la práctica, serás capaz de:
 - Aplicar las técnicas de la práctica de "Desarrollo de visión del proyecto" para **redactar** de forma colaborativa la declaración de visión del producto.
 
 **Paso 3.** Definir roles y responsabilidades.
-- Describir las características y responsabilidades principales del Product Owner, el Equipo de desarrollo y el Scrum Master.
+- Describir las características y responsabilidades principales del Product Owner, el equipo de desarrollo y el Scrum Master.
 - Asignar un rol a cada participante para el resto de las prácticas, basándose en la descripción anterior.
 
 **Paso 4.** Definir las métricas de éxito.
@@ -56,14 +56,14 @@ Al finalizar la práctica, serás capaz de:
 
 **Paso 6.** Identificar riesgos y suposiciones.
 - Facilitar una discusión para responder a las preguntas:
-    - *¿Qué estamos asumiendo que es verdad para que este proyecto tenga éxito?* (suposiciones).
-    - *¿Qué podría hacer que este proyecto fracase?* (riesgos).
+    - ¿Qué estamos asumiendo que es verdad para que este proyecto tenga éxito? (*suposiciones*).
+    - ¿Qué podría hacer que este proyecto fracase? (*riesgos*).
 - Capturar los puntos más importantes para hacerlos visibles desde el inicio.
 
 ### Tarea 3. Establecer los criterios de calidad
 
-**Paso 1.** Definir la "Definition of Done" inicial.
-- Explicar que la "Definition of Done" (DoD) es un _checklist_ compartido que define todo el trabajo de calidad que debe cumplirse para que un incremento del producto se considere "terminado".
+**Paso 1.** Definir la _Definition of Done_ (DoD) inicial.
+- Explicar que la DoD es un _checklist_ compartido que define todo el trabajo de calidad que debe cumplirse para que un incremento del producto se considere "terminado".
 - Facilitar una discusión para crear una primera versión de la DoD del equipo. Esta evolucionará, pero es crucial tener una base. Usen una plantilla como punto de partida, cubriendo áreas como código, pruebas, documentación y despliegue.
 
 ### Resultado esperado
@@ -73,7 +73,7 @@ Al finalizar, el equipo tendrá un artefacto visual y documentado (como una pág
 -   Los **objetivos de negocio**.
 -   El **_roadmap_ inicial** con las épicas priorizadas y su alcance definido.
 -   Los **riesgos y suposiciones** principales.
--   La primera versión de la **Definition of Done** del equipo.
+-   La primera versión de la **DoD** del equipo.
 
 #### Notion
 
