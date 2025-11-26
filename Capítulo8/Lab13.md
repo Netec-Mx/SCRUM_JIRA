@@ -32,7 +32,7 @@ Al finalizar la práctica, serás capaz de:
 Al finalizar esta práctica, el equipo tendrá:
 -  Una **comprensión clara y justificada de la naturaleza cíclica de Scrum**, demostrando que entienden que el final de una liberación es el comienzo de la planificación para la siguiente.
 -  Un **artefacto documentado que inicia el nuevo ciclo de desarrollo**, como un nuevo **plan de lanzamiento** para el próximo conjunto de funcionalidades prioritarias.
--  Una **hoja de ruta clara** que describe la secuencia de los próximos eventos a ejecutar (ej.: después de la planificación del lanzamiento, el siguiente paso es la planificación del sprint 1 del nuevo ciclo").
+-  Una **hoja de ruta clara** que describe la secuencia de los próximos eventos a ejecutar (ej.: después de la planificación del lanzamiento, el siguiente paso es la planificación del sprint 1 del nuevo ciclo).
 -  La capacidad demostrada de **integrar y reiniciar el marco de trabajo Scrum** de manera autónoma, aplicando los aprendizajes del ciclo anterior al nuevo.
 -  Una **mayor confianza del equipo** para aplicar el ciclo completo de Scrum de forma continua en un proyecto real.
 
