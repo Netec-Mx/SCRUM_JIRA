@@ -66,9 +66,9 @@ El objetivo de esta práctica es estimar de forma colaborativa el _tamaño_ de l
 Al finalizar, el equipo tendrá un conjunto de historias de usuario del backlog con una estimación de esfuerzo en puntos acordada por consenso y, más importante aún, una **comprensión compartida y profunda** del trabajo que implica cada historia, gracias a las discusiones durante el proceso de estimación.
 
 **Ejemplo del producto final en Jira (o cualquier otra herramienta)**
--   HU 1.1. Crear cuenta con email/redes sociales: 8 puntos.
--   HU 1.2. Recuperar contraseña: 5 puntos.
--   HU 3.2. Mostrar tiempo estimado de entrega: 8 puntos.
+-   **HU 1.1.** Crear cuenta con _e-mail_ o redes sociales: 8 puntos.
+-   **HU 1.2.** Recuperar contraseña: 5 puntos.
+-   **HU 3.2.** Mostrar tiempo estimado de entrega: 8 puntos.
 
 <img width="1279" height="235" alt="image" src="https://github.com/user-attachments/assets/93b4e589-f8ee-4698-9692-c528ca95779d" />
 
