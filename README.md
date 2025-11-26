@@ -40,9 +40,9 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 ### [Práctica 5. Reunión de visión del proyecto](Capítulo4/Lab4.md)
    - **Descripción**: al finalizar la práctica, serás capaz de:
-      - Desarrollar la declaración de Visión del proyecto
-      - Crear las épicas de una visión del proyecto
-      - Identificar las responsabilidades que lleva a cabo cada uno de los roles principales de la gestión Scrum
+      - Desarrollar la declaración de visión del proyecto.
+      - Crear las épicas de una visión del proyecto.
+      - Identificar las responsabilidades que lleva a cabo cada uno de los roles principales de la gestión Scrum.
       - Generar una definición de terminado adecuada.
    - ⏱️ **Duración estimada**: 75 min.
 
