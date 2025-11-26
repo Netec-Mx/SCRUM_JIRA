@@ -20,7 +20,7 @@ El objetivo de esta práctica es simular la ceremonia de Sprint Planning. Como _
 ### Tarea 1. Definir el propósito (el porqué)
 
 **Paso 1.** Proponer un objetivo.
-- **Escuchar** al _Product Owner_ mientras presenta los elementos de mayor prioridad del _Product Backlog_ y propone un objetivo de negocio para el sprint.
+- **Escuchar** al _Product Owner_ (PO) mientras presenta los elementos de mayor prioridad del _Product Backlog_ y propone un objetivo de negocio para el sprint.
 
 **Paso 2.** Colaborar y definir el Sprint Goal.
 - **Discutir** y **refinar** la propuesta del PO como equipo.
@@ -30,11 +30,11 @@ El objetivo de esta práctica es simular la ceremonia de Sprint Planning. Como _
 
 **Paso 1.** Revisar y aclarar las historias de usuario.
 - **Analizar** las historias de usuario de alta prioridad que contribuyen al Sprint Goal.
-- **Hacer** preguntas al Product Owner para aclarar cualquier duda sobre los criterios de aceptación y el alcance de cada historia.
+- **Hacer** preguntas al PO para aclarar cualquier duda sobre los criterios de aceptación y el alcance de cada historia.
 
 > **Nota**
 > 
-> El desarrollo completo y la estimación de historias, idealmente, ocurren en una sesión de refinamiento previa, no durante el Sprint Planning. En esta reunión, se confirman y se seleccionan.</span>
+> El desarrollo completo y la estimación de historias, idealmente, ocurren en una sesión de refinamiento previa, no durante el Sprint Planning. En esta reunión, se confirman y se seleccionan.
 
 **Paso 2.** Confirmar estimaciones y capacidad.
 - **Llevar a cabo** una ronda final de estimación (_Planning Poker_) para cualquier historia que aún no esté estimada o cuyas dudas hayan cambiado su complejidad.
@@ -55,7 +55,7 @@ El objetivo de esta práctica es simular la ceremonia de Sprint Planning. Como _
 ### Tarea 4. Implementar y documentar el plan en las herramientas
 
 **Paso 1.** Crear las historias de usuario en Jira.
-- **Navegar** a la sección **Backlog**. En la parte inferior, **hacer** clic en **`Crear`** (o **`Create`**).
+- **Navegar** a la sección **`Backlog`**. En la parte inferior, **hacer** clic en **`Crear`** (o **`Create`**).
 - **Asegurarse** de que el tipo de incidencia sea **Historia** (Story), **escribir** el título de la historia y presionar `Enter`.
 - **Repetir** este paso para todas las historias seleccionadas.
 
