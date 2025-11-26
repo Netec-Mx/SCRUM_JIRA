@@ -25,7 +25,7 @@ Al finalizar la práctica, serás capaz de:
 
 ### Tarea 2. Implementación: crear y detallar las épicas en Jira
 
-**Paso 1.** Dentro del proyecto de Jira, seleccionar el menú **Backlog** en el panel de la izquierda.
+**Paso 1.** Dentro del proyecto de Jira, seleccionar el menú **`Backlog`** en el panel de la izquierda.
 
 <img width="921" height="467" alt="image" src="https://github.com/user-attachments/assets/9d368be0-92b3-4ea1-b5b4-04e9fc0dc1b8" />
 
@@ -71,12 +71,11 @@ Copiar y pegar el _checklist_ de DoD en el campo `Descripción` de la épica en 
 
 ### **Plantilla de _DoD_ para una épica**
 
-## _ DoD_ 
-- [ ] Todas las historias de usuario y tareas asociadas a esta épica han sido completadas y cumplen su propia DoD.
-- [ ] La funcionalidad ha pasado todas las pruebas de regresión y aceptación del usuario (UAT).
-- [ ] Se han cumplido los objetivos de negocio o las métricas de éxito asociadas a la Épica (ej.: "La tasa de registro de nuevos usuarios ha aumentado en un 10 %").
-- [ ] La documentación para el usuario final o la documentación técnica ha sido creada o actualizada.
-- [ ] El Product Owner y los stakeholders clave han revisado y aceptado formalmente la funcionalidad entregada.
+- [ ]  Todas las historias de usuario y tareas asociadas a esta épica se han completado y cumplen su propia DoD.
+- [ ]  La funcionalidad ha pasado todas las pruebas de regresión y aceptación del usuario (UAT).
+- [ ]  Se han cumplido los objetivos de negocio o las métricas de éxito asociadas a la Épica (ej.: "La tasa de registro de nuevos usuarios ha aumentado en un 10 %").
+- [ ]  La documentación para el usuario final o la documentación técnica ha sido creada o actualizada.
+- [ ]  El Product Owner y los stakeholders clave han revisado y aceptado formalmente la funcionalidad entregada.
 
 
 ### Resultado esperado
