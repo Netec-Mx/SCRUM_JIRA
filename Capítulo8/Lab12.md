@@ -15,16 +15,16 @@ Al finalizar la práctica, serás capaz de:
 - **Demostrar** el conjunto de funcionalidades completadas a lo largo de los sprints que componen la liberación, destacando cómo se cumple el **Release Goal**.
 
 **Paso 2.** Presentar la documentación clave.
-- **Hacer** un breve recorrido por la documentación generada, enfatizando los cambios, los éxitos y cómo se cumplieron los criterios de aceptación y los objetivos del cronograma.
+- Hacer un breve **recorrido por la documentación generada**, enfatizando los cambios, los éxitos y cómo se cumplieron los criterios de aceptación y los objetivos del cronograma.
 
 **Paso 3.** Analizar el proceso de liberación.
-- **Discutir** las posibles situaciones que pueden ocurrir durante una liberación real (ej. un fallo en el despliegue, _feedback_ negativo inmediato de los usuarios) y cómo el equipo respondería.
+- Discutir las **posibles situaciones que pueden ocurrir durante una liberación real** (ej. un fallo en el despliegue, _feedback_ negativo inmediato de los usuarios) y cómo el equipo respondería.
 
 ### Tarea 2. Facilitar la retrospectiva de la liberación
 **Paso 1.** Reflexionar sobre el ciclo completo.
 - **Analizar** con el equipo los procesos de todo el ciclo de la liberación, desde la planificación hasta la entrega.
-- ¿Qué aprendimos a nivel estratégico?
-- ¿Nuestras estimaciones fueron acertadas a largo plazo?
+- ¿Qué se aprendió a nivel estratégico?
+- ¿Las estimaciones fueron acertadas a largo plazo?
 
 ## Resultado esperado
 Al finalizar esta práctica, el equipo tendrá:
