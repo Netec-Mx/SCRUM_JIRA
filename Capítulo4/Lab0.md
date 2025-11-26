@@ -12,7 +12,7 @@ Al finalizar la práctica, serás capaz de:
 ### Tarea 1. Revisión individual del documento
 
 **Paso 1.** Localizar el documento.
-- **Acceder** al espacio de trabajo de Notion y **navegar** en la página titulada **"Caso de negocio (BASE)"**.
+- **Acceder** al espacio de trabajo de Notion y **navegar** en la página titulada **`Caso de negocio (BASE)`**.
 
 **Paso 2.** Realizar una lectura detallada.
 - **Leer** cuidadosamente todo el documento. Prestar especial atención a los siguientes puntos.
@@ -28,4 +28,4 @@ Al finalizar la práctica, serás capaz de:
 
 ### Resultado esperado
 - Una **comprensión fundamental y compartida** del contexto del proyecto, incluyendo sus problemas, objetivos y alcance inicial.
-- Una **base de conocimiento sólida** sobre la cual se construirán todas las demás prácticas y decisiones del proyecto.
+- Una **base de conocimiento sólida**, sobre la cual se construirán todas las demás prácticas y decisiones del proyecto.
