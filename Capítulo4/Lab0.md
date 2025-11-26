@@ -1,6 +1,6 @@
 # Práctica 1. Análisis del caso de negocio
 
-## Objetivo 
+## Objetivos 
 Al finalizar la práctica, serás capaz de:
 - **Familiarizarte** con el contexto, los problemas y los objetivos del proyecto, sentando las bases para todas las actividades posteriores.
 - Asegurar que todo el equipo tenga una comprensión profunda y alineada del caso de negocio antes de comenzar con la planificación y el desarrollo.
