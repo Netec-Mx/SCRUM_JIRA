@@ -32,7 +32,9 @@ El objetivo de esta práctica es simular la ceremonia de Sprint Planning. Como _
 - **Analizar** las historias de usuario de alta prioridad que contribuyen al Sprint Goal.
 - **Hacer** preguntas al Product Owner para aclarar cualquier duda sobre los criterios de aceptación y el alcance de cada historia.
 
-<span style="color:blue">**Nota.** El desarrollo completo y la estimación de historias, idealmente, ocurren en una sesión de refinamiento previa, no durante el Sprint Planning. En esta reunión, se confirman y se seleccionan.</span>
+> **Nota**
+> 
+> El desarrollo completo y la estimación de historias, idealmente, ocurren en una sesión de refinamiento previa, no durante el Sprint Planning. En esta reunión, se confirman y se seleccionan.</span>
 
 **Paso 2.** Confirmar estimaciones y capacidad.
 - **Llevar a cabo** una ronda final de estimación (_Planning Poker_) para cualquier historia que aún no esté estimada o cuyas dudas hayan cambiado su complejidad.
