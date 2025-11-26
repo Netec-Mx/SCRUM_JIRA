@@ -8,32 +8,33 @@ Al finalizar la práctica, serás capaz de:
 - 65 minutos.
 
 
-### Instrucciones
+## Instrucciones
 
-#### Tarea 1. Identificar el Próximo Paso.
-**Paso 1. Analizar el Ciclo Scrum.**
+### Tarea 1. Identificar el próximo paso
+**Paso 1.** Analizar el ciclo Scrum.
 - **Revisar** los diferentes eventos de Scrum realizados hasta el momento.
-- **Determinar** cuál es el primer proceso lógico a seguir después de haber completado una liberación y una retrospectiva. **Justificar** la elección (Pista: volvemos a la planificación de alto nivel).
+- **Determinar** el siguiente proceso lógico después de completar una liberación y una retrospectiva. 
+- **Justificar** la elección (pista: volver a la planificación de alto nivel).
 
-#### Tarea 2. Ejecutar el Nuevo Ciclo.
-**Paso 1. Realizar el Primer Evento.**
-- **Llevar a cabo** el primer evento del nuevo ciclo (ej. una nueva Planificación de Lanzamiento para el siguiente conjunto de Épicas).
+### Tarea 2. Ejecutar el nuevo ciclo
+**Paso 1.** Realizar el primer evento.
+- **Llevar a cabo** el primer evento del nuevo ciclo (ej. una nueva planificación de lanzamiento para el siguiente conjunto de épicas).
 
-**Paso 2. Elaborar la Documentación Necesaria.**
-- **Crear** la documentación completa que resulta de ese evento (ej. el nuevo Plan de Lanzamiento).
+**Paso 2.** Elaborar la documentación necesaria.
+- **Crear** la documentación completa que resulta de ese evento (ej. el nuevo plan de lanzamiento).
 
-**Paso 3. Planificar la Continuidad.**
-- **Seleccionar** y describir cuál sería el siguiente proceso en la secuencia (ej. la Planificación del primer Sprint del nuevo lanzamiento).
+**Paso 3.** Planificar la continuidad.
+- **Seleccionar** y describir el siguiente proceso en la secuencia (ej. la planificación del primer sprint del nuevo lanzamiento).
 - **Identificar** la información y los documentos indispensables para mostrar y continuar con todo el proceso Scrum de manera iterativa.
 
 
-### Resultado Esperado
+### Resultado esperado
 Al finalizar esta práctica, el equipo tendrá:
-1.  Una **comprensión clara y justificada de la naturaleza cíclica de Scrum**, demostrando que entienden que el final de una liberación es el comienzo de la planificación para la siguiente.
-2.  Un **artefacto documentado que inicia el nuevo ciclo de desarrollo**, como un nuevo "Plan de Lanzamiento" para el próximo conjunto de funcionalidades prioritarias.
-3.  Una **hoja de ruta clara que describe la secuencia de los próximos eventos** a ejecutar (ej. "Después de esta Planificación de Lanzamiento, nuestro siguiente paso es la Planificación del Sprint 1 del nuevo ciclo").
-4.  La **capacidad demostrada de integrar y reiniciar el marco de trabajo Scrum** de manera autónoma, aplicando los aprendizajes del ciclo anterior al nuevo.
-5.  Una **mayor confianza del equipo** para aplicar el ciclo completo de Scrum de forma continua en un proyecto real.
+-  Una **comprensión clara y justificada de la naturaleza cíclica de Scrum**, demostrando que entienden que el final de una liberación es el comienzo de la planificación para la siguiente.
+-  Un **artefacto documentado que inicia el nuevo ciclo de desarrollo**, como un nuevo **plan de lanzamiento** para el próximo conjunto de funcionalidades prioritarias.
+-  Una **hoja de ruta clara** que describe la secuencia de los próximos eventos a ejecutar (ej.: después de la planificación del lanzamiento, el siguiente paso es la planificación del sprint 1 del nuevo ciclo").
+-  La capacidad demostrada de **integrar y reiniciar el marco de trabajo Scrum** de manera autónoma, aplicando los aprendizajes del ciclo anterior al nuevo.
+-  Una **mayor confianza del equipo** para aplicar el ciclo completo de Scrum de forma continua en un proyecto real.
 
 <img width="501" height="699" alt="image" src="https://github.com/user-attachments/assets/59898be9-f1f9-448a-b187-f75499bee4ec" />
 
